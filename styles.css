@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+    padding: 5px 15px;
+    width: 180px;
+}
+
+.navbar-brand p {
+    font-size: 25px;
+    vertical-align: bottom;
+    color: white;
+    transition: 1s;
+}
+
+.navbar-brand p:hover {
+    color: red;
+}
+
+.navbar-brand img:hover {
+    filter: contrast(20%);
+}
+
+.navbar-form  {
+    width: 70%;
+}
+
+.input-group {
+    width: 100%;
+}
+
+.form-control {
+    font-family: FontAwesome;
+    font-size: 18px;
+}
+
+.navbar-form input {
+    background-color: #454647;
+    color: #e0e0e0;
+    border: none;
+    outline: none;
+}
+
+.collapse {
+    font-size: 17px;
+}
+
+.menu {
+    column-width: 270px;
+    -moz-column-width: 270px;
+    -webkit-column-width: 270px;
+    column-gap: 5px; 
+    -moz-column-gap: 5px;
+    -webkit-column-gap: 5px;
+    margin: 0 3px;
+}
+
+.menu-category {
+    display: inline-block;
+    padding: 0px;
+    width: 100%; 
+    border-radius: 15px;
+}
+
+.list-group {
+    margin-bottom: 30px;
+}
+
+.list-group-item {
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.list-group-item:hover {
+    background-color: #efefef;
+}
+
+#artist_image {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.artist_info {
+    width: 81%;
+    margin: 5px 0 0 5px;
+    display: inline-block;
+}
+
+#artist_name {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.artist_description_div {
+    overflow: hidden;
+}
+
+.show_more {
+    padding: 5px 10px;
+    border: none;
+    outline:none;
+    border-radius: 8px;
+    transition: 0.5s;
+    display: none;
+    margin: 10px 5px;
+}
+
+.show_more:hover {
+    background-color: #ff4c4c;
+    color: white;
+}
+
+
+.artist_pin_thumb {
+    width: 15%;
+    display: inline-block;
+    float: right;
+    vertical-align: top;
+    text-align: right;
+    font-size: 15px;
+    margin: 10px 0 0 5px;
+}
+
+.artist_pin_thumb i {
+    transition: 0.3s;
+    margin-right: 5px;
+}
+
+.icon-pushpin:hover, .icon-thumbs-up-alt:hover {
+    font-size: 20px;
+    color: #ff4c4c;
+/*    font-weight: bold;*/
+}
+
+
+
+
+
+@media (max-width: 1472px) and (min-width: 896px)
+{
+    .navbar-form  {
+        width: 50%;
+    }
+}
+
+@media (max-width: 895px) and (min-width: 767px)
+{
+    .navbar-form  {
+        width: 40%;
+    }
+}
+
+
+@media (max-width: 767px) {
+
+    .navbar-form {
+        width: 100%;
+    }
+
+    .navbar-form {
+        width: auto;
+    }
+
+    .input-group, .input-group .form-control {
+        width: 100%;
+    }
+
+    .input-group .form-control {
+        width: 100%;
+    }
+}

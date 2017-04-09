@@ -2,16 +2,96 @@
 <html>
     <head>
         <title>Blackwhiz</title>
+        <link rel="shortcut icon" type="image/png" href="images/blogo_transparent.png">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="styles.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>        
+        <script src="index.js"></script>
+        <script src="controllers/MainController.js"></script>
+        <script src="services/artists.js"></script>
+        <link rel="stylesheet" href="styles.css">
     </head>
-    <body>
+    <body ng-app="Blackwhiz">
 
-        
+        <!------------------------------------------------------------------------------------------------------>
+
+        <!--       Start of Responsive Navigation Bar -->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span> 
+                    </button>
+                    <a class="navbar-brand" href="#">
+                        <img style="display: inline-block" src="images/Logo/blogo_transparent.png" width="40" height="40" alt="">
+                        <p style="display: inline-block">Blackwhiz</p>
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <form class="navbar-form navbar-left">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="&#xF002;  Search">
+                        </div>
+                    </form>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Topics 
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Video</a></li>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Sports</a></li>
+                                <li><a href="#">Food & Drink</a></li>
+                                <li><a href="#">News</a></li>
+                                <li><a href="#">Culture & World</a></li>
+                                <li><a href="#">Forum</a></li>
+                                <li><a href="#">Submit</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--        End of Navigation Bar-->
+
+        <!---------------------------------------------------------------------------------------------------->
+
+
+        <!--        Start of Main -->
+        <div class="main" ng-controller="MainController">
+            <div class="container-fluid" style="margin: 70px 1%;">
+                <div class="menu row">
+                    <div class="menu-category list-group" ng-repeat="artist in artists" on-finish-render="ngRepeatFinished">
+                        <a href="#" class="list-group-item">
+                            <img id="artist_image" ng-src="{{ artist.image }}">
+                            <div class="artist_info">
+                                <p class="artist_name" id="artist_name" ng-style="getName()">{{ artist.name }}</p>
+                                <div class="artist_description_div">
+                                    <p id="artist_description" ng-style="getHeight('.artist_description_div')">{{ artist.description }} </p>
+                                </div>
+                                <button type="button" class="show_more" ng-style="getButton('.show_more')" >Show More</button>
+                            </div>
+                            <div class="artist_pin_thumb">
+                                <i class="icon-pushpin"></i><span class="icon_num">0</span>
+                                <br />
+                                <i class="icon-thumbs-up-alt"></i><span class="icon_num">0</span>
+                                <br />
+                            </div>
+                        </a>
+                    </div>    <!--End of col-sm-2-->
+                </div>    <!--End of row-->
+            </div>    <!--End of container-fluid-->
+        </div>    <!--End of Main-->
+        <!--        End of Main-->
     </body>
 </html>
