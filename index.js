@@ -5,6 +5,8 @@ $(document).ready(function() {
     console.log( "ready!" );
     $(document).on ("click", ".show_more", function () {
         var add_height = 100;
+        
+        // get index of clicked element
         var name = $(this).parent().find('#artist_name').text();
         var index = match_name(name, artist_name);
 
