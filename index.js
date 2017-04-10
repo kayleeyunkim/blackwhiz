@@ -6,7 +6,7 @@ $(document).ready(function() {
     $(document).on ("click", ".show_more", function () {
         var add_height = 100;
         
-        // get index of clicked element
+        // get index of clicked element using artist's name
         var name = $(this).parent().find('#artist_name').text();
         var index = match_name(name, artist_name);
 
@@ -58,6 +58,8 @@ var Blackwhiz = angular.module("Blackwhiz", [])
             if (scope.$last === true) {
                 $timeout(function () {
                     var count = 1;
+                    
+                    // get original height of every description divs
                     scope.getHeight = function(selector) 
                     {
                         var element = $(selector); 
@@ -74,7 +76,9 @@ var Blackwhiz = angular.module("Blackwhiz", [])
                             element[over_height[j]].style.height = '100px';
                         }
                     };
-
+                    
+                    // display buttons only for description div height is over 100.
+                    // determines from check_over_height function
                     scope.getButton = function(selector) {
                         var over_height = check_over_height(element_height);
                         var element = $(selector);
@@ -84,6 +88,7 @@ var Blackwhiz = angular.module("Blackwhiz", [])
                         }
                     }
 
+                    // get all the artists' name and store in array
                     scope.getName = function() {
                         for (var i = 0; i < scope.artists.length; i++) {
                             artist_name.push(scope.artists[i].name)
