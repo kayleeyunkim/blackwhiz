@@ -32,42 +32,70 @@ $(document).ready(function() {
     // when user click the listed item, show preview
     $(document).on("click", ".list-group-item", function(e) {
         // if clicked show_more button
-        if ($(e.target).is(':button'))
+        if (($(e.target).is(':button')) || 
+            ($(e.target).is('.icon-pushpin')) || 
+            ($(e.target).is('.icon-thumbs-up-alt')))
         {
             return;
         }
 
         // if clicked besides button
         else {
-            //            var name = $(this).parent().find('#artist_name').text();
-            //            var index = match_name(name, artist_name);
+            $("body").css("overflow", "hidden");
 
-            //            var img = $(this).parent().find('#artist_image');
-            var img = $(this).parent().find('#artist_image').attr("src");
+            // get pretty scroll bar
             var preview_img = document.getElementById("preview_artists_img");
+            var img = $(this).parent().find('#artist_image').attr("src");
             var artist_name = $(this).parent().find('#artist_name').text();
             var artist_role = $(this).parent().find('#artists_role').text();
             var artist_member = $(this).parent().find('#artist_member').text();
             var artist_genre = $(this).parent().find('#artist_genre').text();
             var artist_description = $(this).parent().find('#artist_description').text();
 
-            console.log(img + ", " + artist_name + ", " + artist_role + ", " + artist_member + ", " + artist_genre + ", " + artist_description);
-
             preview_img.src = img;
+
+            $('#preview_artist_name').empty();
+            $('#preview_artist_role').empty();
+            $('#preview_artist_member').empty();
+            $('#preview_artist_genre').empty();
+            $('#preview_artist_description').empty();
+
+            $('#preview_artist_name').append(artist_name);
+            $('#preview_artist_role').append("<b>Roles: </b>" + artist_role);
+            $('#preview_artist_member').append("<b>Member of: </b>" + artist_member);
+            $('#preview_artist_genre').append("<b>Genre: </b>" + artist_genre);
+            $('#preview_artist_description').append(artist_description);
             $('.preview_artist').css('display', 'block');
         }
-
 
         var span = document.getElementsByClassName("preview_close_btn")[0];
 
         // When the user clicks on <span> (x), close the modal
         span.onclick = function() { 
             $('.preview_artist').css('display', 'none');
+            $("body").css("overflow", "auto");
         }
 
+        $(document).on("click", ".preview_artist", function(ev) {
+            if (($(ev.target).is('.preview_info_sub_left')) || 
+                ($(ev.target).is('.preview_artists_img')) || 
+                ($(ev.target).is('.preview_artist_info')) ||
+                ($(ev.target).is('.preview_info_sub_right')) ||
+                ($(ev.target).is('.preview_sub_div')) ||
+                ($(ev.target).is('.preview_artist_equip_btn_div')) ||
+                ($(ev.target).is('.artist_equip_btn')))
+            {
+                return;
+            }
 
+            else {
+                $('.preview_artist').css('display', 'none');
+                $("body").css("overflow", "auto");
+            }
+        });
 
     });
+
 
     // when user click the pin icon, add number to specific artist
     // don't forget to insert to mysql
