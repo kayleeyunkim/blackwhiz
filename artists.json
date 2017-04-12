@@ -1,233 +1,1499 @@
 [
     {
-        "name": "Joey Badass",
-        "description": "Jo-Vaughn Virginie Scott (born January 20, 1995) better known by his stage name Joey Badass is an New York hip-hop recording artist.Raised in Brooklyn, New York, he is a founding member of the hip-hop collective Pro Era, with whom he has released three mixtapes. He released his debut mixtape, 1999, in June 2012 to critical acclaim and recognition, followed by Rejex in September, and Summer Knights on July 1, 2013. His debut studio album, B4.DA.$$, was released January 20, 2015.",
-        "image": "images/Artists/joey-badass.jpg"
+        "name": "40",
+        "description": "Noah Shebib",
+        "image": "images/Artists/40.jpeg",
+        "role": "Producer,Engineer,Composer",
+        "member": "OVO",
+        "genres": "R&B, Hip-Hop,Rap",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=ESUHhXgIaos",
+        "soundcloud": ""
     },
 
     {
-        "name": "Syd",
-        "description": "Sydney \"Syd\" Bennett (born April 23, 1992) is an American alternative R & B and neo soul singer-songwriter, record producer, DJ, and audio engineer from Los Angeles, California Aside from her solo career, Syd was a member of the Los Angeles alternative hip hop collective Odd Future and is the lead vocalist for the neo soul band The Internet. She is the older sister of Odd Future member Travis \"Taco\" Bennett. She is currently signed to Columbia Records.",
-        "image": "images/Artists/syd-the-kyd.jpg"
+        "name": "50 Cent",
+        "description": "Curtis James Jackson III (born July 6, 1975), known professionally as 50 Cent, is an American rapper, actor, businessman, and investor. Born in the South Jamaica neighborhood of the borough of Queens, Jackson began selling drugs at age twelve during the 1980s crack epidemic. Although he left drug-dealing to pursue a musical career, in 2000 he was shot nine times. After Jackson released the compilation album Guess Who's Back in 2002, he was discovered by Eminem and signed by Shady Records, Aftermath Entertainment and Interscope Records.",
+        "image": "images/Artists/50_cent.jpg",
+        "role": "Rapper, Producer, Entrepreneur, Actor ",
+        "member": "G-Unit, Money XL",
+        "genres": "Hip hop",
+        "facebook": "https://www.facebook.com/50cent/",
+        "youtube": "https://www.youtube.com/user/50CentVEVO/featured",
+        "website": "http://50cent.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=ZB7Xjd34pjo",
+        "soundcloud": "https://soundcloud.com/50_cent"
     },
 
     {
-        "name": "Def Jam",
-        "description": "Def Jam was founded by Rick Rubin in his dormitory in Weinstein Hall at New York University and its first release was a single by his punk-rock group Hose. Russell Simmons joined Rubin shortly after they were introduced to each other by Vincent Gallo.The first single released with the Def Jam Recordings logo was T La Rock & Jazzy Jay's \"It's Yours.\" The first releases with Def Jam Recordings catalog numbers were LL Cool J's \"I Need a Beat\" and the Beastie Boys' \"Rock Hard,\" both in 1984.",
-        "image": "images/Artists/russ.jpg"
+        "name": "A Boogie wit da Hoodie",
+        "description": "Artist J. Dubose (born December 6, 1995), better known by his stage name A Boogie wit da Hoodie (or simply A Boogie), is an American hip hop recording artist and record producer from Highbridge, Bronx, New York City. He is best known for his breakout single \"My Shit\", from his debut solo mixtape Artist (2016).",
+        "image": "images/Artists/boggie_wit_da_hoodie.jpg",
+        "role": "Rapper, Singer",
+        "member": "Atlantic ",
+        "genres": "Hip-Hop, Rap, New York Rap,",
+        "facebook": "https://www.facebook.com/ArtistHBTL",
+        "youtube": "https://www.youtube.com/channel/UCfgsFOdVScKetBXYrFNr5LQ",
+        "website": "http://aboogiehbtl.com/",
+        "youtube_song": "",
+        "soundcloud": "https://soundcloud.com/a-boogie-wit-da-hoodie"
     },
 
     {
-        "name": "Dj Mustard",
-        "description": "Dijon Isaiah McFarlane (born June 5, 1990), professionally known as DJ Mustard, is an American record producer, songwriter and DJ from Los Angeles, California. He is a frequent collaborator of Compton-bred rapper YG, and has produced numerous singles for hip hop and R & B artists since his entrance into mainstream music in 2011. Mustard's production style has been described as an up-tempo, club oriented, catchy yet rudimentary melodic hip hop style. This style has snowballed into the contemporary production style of West Coast hip hop during the early 2010s, which he calls \"ratchet music\". Almost all of his productions begin or end with the tag \"Mustard on the beat, hoe!\", a voice sample of YG, who says it at the end of \"I'm Good\", one of their early collaborations, as well as claps and repetition of the word \"hey\". Mustard's debut album, 10 Summers, was released on August 26, 2014.",
-        "image": "images/Artists/dj-mustard.jpg"
+        "name": "A$AP Rocky",
+        "description": "Rakim Mayers (born October 3, 1988), better known by his stage name ASAP Rocky (stylized as A$AP Rocky), is an American rapper, record producer, director, actor and model from the Harlem neighborhood of Manhattan, New York. He is a member of the hip hop group A$AP Mob, from which he adopted his moniker. Rocky released his debut mixtape Live. Love. A$AP, in 2011 to critical acclaim. The success of his mixtape led to a record deal with Polo Grounds Music, RCA Records, and Sony Music Entertainment. He subsequently recorded his 2013 debut album Long. Live. A$AP, which was also well received by critics and debuted at number one on the Billboard 200. In 2015, Rocky released his second studio album titled At. Long. Last. A$AP. The album debuted at number one on the Billboard 200, making it Rocky's second consecutive album to debut at number one and has received critical acclaim from music critics. Rocky has also directed music videos for himself, Danny Brown and other A$AP Mob members. He is also a noted record producer, producing under the pseudonym Lord Flacko.",
+        "image": "images/Artists/asap_rocky.jpg",
+        "role": "Rapper / Producer",
+        "member": "A$AP Worldwide / A$AP Mob",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/asaprocky/",
+        "youtube": "https://www.youtube.com/user/LIVELOVEASAPVEVO",
+        "website": "http://www.asvpxrocky.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=Gx4JEBwVlXo",
+        "soundcloud": "https://soundcloud.com/asvpxrocky"
     },
 
     {
-        "name": "Rico Love",
-        "description": "Richard Preston Butler, Jr. (born December 3, 1982), better known by his stage name Rico Love, is an American singer-songwriter, record producer and rapper. He was born in New Orleans, Louisiana, but split his childhood between Milwaukee, Wisconsin and New York City's Harlem neighborhood. He attended Florida A&M and, while visiting Atlanta, Georgia, worked his way into the music industry through connections with Usher, who would become Love's mentor. The first song Love ever wrote in his career was \"Throwback\" for which ended up on Usher's 2004 album \"Confessions.\" Love success continued writing and producing hit records such as Usher's \"There Goes My Baby\" and \"Hey Daddy (Daddy's Home)\", Nelly's \"Just a Dream\" and \"Gone\", as well as Beyoncé Knowles' \"Sweet Dreams\". and has contributed to works which have gone on to win Grammys such as Beyoncé's 2009 Best Contemporary R&B album I Am... Sasha Fierce, Usher's 2010 Best Contemporary R&B album Raymond v. Raymond, and Usher's 2010 Best Male R&B Vocal Performance \"There Goes My Baby\". In addition Love has written and produced records for Kelly Rowland, Diddy – Dirty Money, Chris Brown, Alexandra Burke, Keri Hilson, Fergie, and Fantasia.",
-        "image": "images/Artists/rico-love.jpg"
+        "name": "Ace Hood",
+        "description": "",
+        "image": "images/Artists/ace_hood.jpg",
+        "role": "Rapper",
+        "member": "We The Best / Cash Money",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/AceHood",
+        "youtube": "https://www.youtube.com/user/AceHoodVEVO",
+        "website": "http://acehood-online.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=djE-BLrdDDc",
+        "soundcloud": "https://soundcloud.com/acehood"
     },
 
     {
-        "name": "Sampha",
-        "description": "Sampha Sisay, who uses the stage name Sampha, is a British singer, songwriter and record producer from Morden, South London, United Kingdom. Sampha is known widely for his collaborative work with SBTRKT, Jessie Ware, Drake, Kanye West, Solange, Koreless, Lil Silva, Katy B and others. Sampha has released two solo EPs: Sundanza (2010) and Dual (2013). Sampha's debut album, Process, is scheduled for release on 3 February 2017, through Young Turks.",
-        "image": "images/Artists/Sampha-piano.jpg"
+        "name": "Amir Obé",
+        "description": "",
+        "image": "images/Artists/amir_obe.jpg",
+        "role": "Singer,Producer,Rapper",
+        "member": "OVO,OMO,",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "http://amirobe.squarespace.com/",
+        "youtube_song": "",
+        "soundcloud": ""
     },
 
     {
-        "name": "Kamaiyah",
-        "description": "Kamaiyah Jamesha Johnson (born March 13, 1995) is an American rapper and singer from Oakland, California. She released her acclaimed debut mixtape A Good Night in the Ghetto in 2016. She was featured along with Drake on the YG single \"Why You Always Hatin?\"Kamaiyah Johnson was born in Oakland, California. She is inspired by 1990s artists such as TLC, Missy Elliott, and Aaliyah. Her debut single \"How Does It Feel\" premiered late in 2015 and was ranked one of the year's best songs by Pitchfork and NPR. She released her debut mixtape, A Good Night in the Ghetto, in March 2016 to favorable reviews. Kamaiyah performed at South by Southwest that month in Austin, Texas. She released a music video for the track \"For My Dawg\" in May. She features, along with Drake, on YG's \"Why You Always Hatin?\", a single from his 2016 album Still Brazy.",
-        "image": "images/Artists/kamiyah.jpg"
+        "name": "Andre 3000",
+        "description": "",
+        "image": "images/Artists/andre_3000.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "AR-AB",
+        "description": "",
+        "image": "images/Artists/arab.jpg",
+        "role": "Rapper, Producer",
+        "member": "OBH,GOONIE GANG, FULL SURFACE, LARSINY FAMILY, CASH MONEY, WE RUN THE STREETS",
+        "genres": "HIP-HOP,RAP,TRAP,NORTH PHILLY",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "BANKS",
+        "description": "Jillian Rose Banks (born June 16, 1988), known simply as Banks (often stylized as BANKS), is an American singer and songwriter from Orange County, California. She is signed to Harvest Records and Good Years Recordings. Following the release of two extended plays, Fall Over and London, in 2013, Banks released her debut album, Goddess, on September 5, 2014, to positive reviews from contemporary music critics. Her second studio album, The Altar, was released on September 30, 2016, to a similar reception. She has toured internationally with The Weeknd and was also nominated for the Sound of 2014 award by the BBC and an MTV Brand New Nominee in 2014.",
+        "image": "images/Artists/banks.jpg",
+        "role": "Singer, Songwriter, Producer",
+        "member": "Harvest Records, Good Years, XO, IAMSOUND",
+        "genres": "Folk, R&B, Trip-Hop, Electronic, Hip-Hop",
+        "facebook": "https://www.facebook.com/hernameisbanks",
+        "youtube": "https://www.youtube.com/user/HerNameIsBanks/about",
+        "website": "http://www.hernameisbanks.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=vSNqIerZBFs",
+        "soundcloud": "https://soundcloud.com/banksbanksbanks"
+    },
+
+    {
+        "name": "Big Sean",
+        "description": "Sean Michael Leonard Anderson (born March 25, 1988), known professionally as Big Sean, is an American rapper from Detroit, Michigan. Sean signed with Kanye West's GOOD Music in 2007, Def Jam Recordings in 2008 and Roc Nation in 2014. After releasing a number of mixtapes, Sean released his debut studio album, Finally Famous, in 2011. He released his second studio album, Hall of Fame, on August 27, 2013. Sean's third studio album Dark Sky Paradise was released in 2015 and which earned him his first No. 1 studio album.On October 31, 2016, Big Sean released \"Bounce Back\" as the lead single from his upcoming fourth studio album, I Decided, which was released February 3, 2017.",
+        "image": "images/Artists/big_sean.jpg",
+        "role": "Rapper/ Producer/ Song-writer ",
+        "member": "G.O.O.D MUSIC, DEF JAM",
+        "genres": "Hip-Hop/ Rap/ R&B",
+        "facebook": "https://www.facebook.com/uknowbigsean",
+        "youtube": "https://www.youtube.com/user/BigSeanVEVO",
+        "website": "http://uknowbigsean.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=TJGx8VGSy0g",
+        "soundcloud": "https://soundcloud.com/bigsean-1"
+    },
+
+    {
+        "name": "Boi-1da",
+        "description": "",
+        "image": "images/Artists/boi_1da.jpg",
+        "role": "Producer, Composer, Engineer",
+        "member": "OVO",
+        "genres": "Hip-Hop/Rap",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Bryant Ezeji",
+        "description": "",
+        "image": "images/Artists/bryant_ezeji.jpg",
+        "role": "Entrepreneur ",
+        "member": "GoodPeeple",
+        "genres": "World, Reggae, Rap, R&B",
+        "facebook": "",
+        "youtube": "",
+        "website": "www.blackwhiz.com ",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Busta Rhymes",
+        "description": "",
+        "image": "images/Artists/busta_rhymes.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Chance the Rapper",
+        "description": "Chancellor Johnathan Bennett",
+        "image": "images/Artists/chance.jpg",
+        "role": "Rapper ",
+        "member": "Savemoney, The Social Experiment ,Childish Gambino, Jeremih, Kanye West, Lil B",
+        "genres": "Hip-Hop/Rap ",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Chief Keef",
+        "description": "Keith Cozart (born August 15, 1995), better known by his stage name Chief Keef, is an American rapper and record producer from Chicago, Illinois. During his teenage years and while under house arrest, Keef's music videos were met with acclaim from local high school students. His increasing popularity led to him being the subject of a brief bidding war among labels. Ultimately, Keef signed a major record deal with Interscope Records and later signed with 1017 Brick Squad. Keef also became the CEO of his own record label, Glory Boyz Entertainment, which later developed into Glo Gang. His debut album Finally Rich was released on December 18, 2012.",
+        "image": "images/Artists/chef_keef.jpg",
+        "role": "RAPPER,PRODUCER",
+        "member": "GLO GANG, BLOOD MONEY, LAMRON",
+        "genres": "Hip hop, drill",
+        "facebook": "https://www.facebook.com/ChiefKeef",
+        "youtube": "https://www.youtube.com/user/KeithCozart",
+        "website": "http://chiefkeef.com/bang/",
+        "youtube_song": "https://www.youtube.com/watch?v=eF2503as6Fc",
+        "soundcloud": "https://soundcloud.com/chiefkeef"
+    },
+
+    {
+        "name": "Childish Gambino",
+        "description": "Donald McKinley Glover (/ˈɡlʌvər/; born September 25, 1983) is an American actor, writer, producer, director, comedian, rapper, singer, and songwriter. As a recording artist, he usually performs under the stage name Childish Gambino, and as a disc jockey, he performs under the name mcDJ.",
+        "image": "images/Artists/childish_gambino.jpeg",
+        "role": "Rapper, Singer, Songwriter, Writer, Producer, Actor",
+        "member": "Glassnote, Island",
+        "genres": "Hip hop, R&B, funk, soul, electronic",
+        "facebook": "https://www.facebook.com/donaldglover/",
+        "youtube": "https://www.youtube.com/user/ChildishGambinoVEVO",
+        "website": "https://awakenmylove.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=coWcTgU5PZ4",
+        "soundcloud": "https://soundcloud.com/childish-gambino"
+    },
+
+    {
+        "name": "Dark Lo",
+        "description": "Dark Lo",
+        "image": "images/Artists/dark_lo.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Dave",
+        "description": "David Santan (born 5 June 1998), known simply as Dave or Santan Dave, is an English rapper from Streatham, South London.Dave released the Six Paths EP and singles \"Thiago Silva\" and \"JKYL+HYD\" in 2016. His collaborator and production partner is 169 (Tyrell Paul).He has also worked with Fraser T Smith and AJ Tracey, and Drake has released a remix of one of his tracks.",
+        "image": "images/Artists/dave.jpg",
+        "role": "Rapper, Songwriter ",
+        "member": "Tropic Sounds",
+        "genres": "Grime/Rap",
+        "facebook": "https://www.facebook.com/santandave1",
+        "youtube": "https://www.youtube.com/channel/UC5-cg5RahETrjGu-r8zjYCQ",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=opH-Rbjlxkw",
+        "soundcloud": "https://soundcloud.com/santandave"
     },
 
     {
         "name": "Dave East",
         "description": "David Brewster Jr. (born June 3, 1988), better known by his stage name Dave East, is an American rapper from East Harlem, New York. He gained attention in 2014 from his mixtape Black Rose. Since the release of his mixtape, East has been signed to rapper Nas' label Mass Appeal Records and has made a number of guest appearances. On October 1, 2015, East released his mixtape titled Hate Me Now with features from Nas, Mack Wilds, Pusha T and more. In 2016, East was chosen as part of the XXL magazine's 2016 \"Freshman Class\".",
-        "image": "images/Artists/Dave-East-Glory-Freestyle.jpg"
+        "image": "images/Artists/dave_east.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     },
 
     {
-        "name": "Giggs",
-        "description": "Nathaniel Thomson (born 11 May 1983), better known by his stage name Giggs, is an English rapper from London. Giggs was signed to XL Recordings in 2009. He is known for his creative wordplay and catchphrases. In 2008 he released his debut studio album Walk in da Park and released a follow-up album, Let Em Ave It the following year peaking at number 35 on the UK Albums Chart. The singles \"Don't Go There\" featuring B.o.B and \"Look What the Cat Dragged In\" both charted in the top 60 of the UK Singles Chart. Giggs released his third studio album When Will It Stop, in October 2013. In 2016, Giggs released his fourth album Landlord, which entered and peaked at number 2 on the UK Albums Chart – becoming Giggs' highest-charting album of his career. It is also his most critically acclaimed album. He is the leader of SN1 (Spare No 1), alongside his brothers Gunna Dee, Joe Grind, Spender and Young Giggs (YG), Kyze and Tiny Boost. The group's main producers are Boom Productions (a.k.a. BoomBlast), Universe, Pablo Productions, Paws Productions, Bayoz Musik and upcoming music producer Mitz Productions.",
-        "image": "images/Artists/giggs-560x312.jpg"
-    },  
+        "name": "Def Jam",
+        "description": "Def Jam was founded by Rick Rubin in his dormitory in Weinstein Hall at New York University and its first release was a single by his punk-rock group Hose. Russell Simmons joined Rubin shortly after they were introduced to each other by Vincent Gallo.The first single released with the Def Jam Recordings logo was T La Rock & Jazzy Jay's \"It's Yours.\" The first releases with Def Jam Recordings catalog numbers were LL Cool J's \"I Need a Beat\" and the Beastie Boys' \"Rock Hard,\" both in 1984.",
+        "image": "images/Artists/def_jam.jpg",
+        "role": "Record Label",
+        "member": "Def Jam Recordings ",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
 
     {
-        "name": "Stormzy",
-        "description": "Michael Omari (born 26 July 1993), better known by his stage name Stormzy, is an English grime and hip hop artist. He won Best Grime Act at the 2014 and 2015 MOBO Awards and was named as an artist to look out for in the BBC's influential Sound of 2015 list. His most successful song to date is the BPI gold-selling \"Shut Up\", initially released as a freestyle to YouTube and later reaching number eight on the UK Singles Chart after a campaign for it to reach Christmas number one. Stormzy originates from Thornton Heath, London, and attended Harris Academy South Norwood. He began rapping at the age of 11 and would clash with older rappers at his local youth club. In school, he was excluded several times in Year 8 and was expelled in sixth form. Before focusing on his music full-time, he studied for an apprenticeship in Leamington Spa and worked in quality assurance for two years at an oil refinery in Southampton. Stormzy is the cousin of BBC Sound of 2017 nominee Nadia Rose.",
-        "image": "images/Artists/maxresdefault-1-1024x576.jpg"
-    }, 
+        "name": "Dj Mustard",
+        "description": "Dijon Isaiah McFarlane (born June 5, 1990), professionally known as DJ Mustard, is an American record producer, songwriter and DJ from Los Angeles, California. He is a frequent collaborator of Compton-bred rapper YG, and has produced numerous singles for hip hop and R&B artists since his entrance into mainstream music in 2011. Mustard's production style has been described as an up-tempo, club oriented, catchy yet rudimentary melodic hip hop style. This style has snowballed into the contemporary production style of West Coast hip hop during the early 2010s, which he calls \"ratchet music\". Almost all of his productions begin or end with the tag \"Mustard on the beat, hoe!\", a voice sample of YG, who says it at the end of \"I'm Good\", one of their early collaborations, as well as claps and repetition of the word \"hey\". Mustard's debut album, 10 Summers, was released on August 26, 2014.",
+        "image": "images/Artists/dj_mustard.jpg",
+        "role": "Producer, songwriter",
+        "member": "Pu$haz Ink, Roc Nation, Universal",
+        "genres": "Hip hop, r&b",
+        "facebook": "https://www.facebook.com/DJMustardOnTheBeat/",
+        "youtube": "https://www.youtube.com/user/DJMustardVEVO",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=lhArLwBO5VQ",
+        "soundcloud": "https://soundcloud.com/dj-mustard-1"
+    },
 
     {
-        "name": "FKA TWIGS",
-        "description": "Tahliah Debrett Barnett (born 16 January 1988), known by the stage name FKA Twigs (stylised as FKA twigs), is an English singer, songwriter, record producer, director and dancer. Raised in Gloucestershire, she became a backup dancer after moving to south London when she was 17 years old. She entered the music industry with the release of her extended plays EP1 (2012) and EP2 (2013).Her debut studio album LP1 (2014) was released to critical acclaim, peaking at number 16 on the UK Albums Chart and number 30 on the US Billboard 200.She released the M3LL155X EP in 2015 to further critical praise. Her work has been described as \"genre-bending\", drawing on various genres including electronic music, punk, R&B, and the avant-garde.",
-        "image": "images/Artists/fka-twigs.jpg"
-    }, 
-
-    {
-        "name": "Rihanna",
-        "description": "Robyn Rihanna Fenty (/riˈænə/; born February 20, 1988) is a Barbadian singer and songwriter. Born in Saint Michael and raised in Bridgetown, she first entered the music industry by recording demo tapes under the direction of record producer Evan Rogers in 2003. She ultimately signed a recording contract with Def Jam Recordings after auditioning for its then-president, hip hop producer and rapper Jay Z. In 2005, Rihanna rose to fame with the release of her debut studio album Music of the Sun and its follow-up A Girl like Me (2006), which charted on the top 10 of the U.S. Billboard 200 and respectively produced the hit singles \"Pon de Replay\" and \"SOS\".",
-        "image": "images/Artists/rihanna-1024x1024.jpg"
-    }, 
-
-    {
-        "name": "Jhené Aiko",
-        "description": "Jhené Aiko Efuru Chilombo (born March 16, 1988), known as Jhené Aiko or Jhené, is an American singer and songwriter. She embarked on her music career contributing vocals and appearing in several music videos for R & B group B2K. At the time, she was known as B2K member Lil' Fizz's \"cousin\", though she is not actually related to him. It was used as a marketing tool, suggested by Sony and Epic Records, to promote Aiko through B2K and attract an audience. In 2003, Aiko was set to release her debut album, My Name Is Jhené, through her labels Sony, The Ultimate Group and Epic, however the album was never released, with Aiko asking to be released from the label in order to continue her education. In March 2011, Aiko made her return to music with the release of her first full-length project, a mixtape titled Sailing Soul(s). On December 16, 2011, Aiko signed a recording contract with American record producer No I.D.'s record label Artium, distributed through Def Jam Recordings. In 2013, Aiko appeared on Big Sean's single \"Beware\", also featuring Lil Wayne, which became her first top 40 hit on the US Billboard Hot 100 chart. In November 2013, she released her first project for Artium and Def Jam, an extended play (EP), titled Sail Out. The EP was supported by the singles \"3:16AM\", \"Bed Peace\" and \"The Worst\", the latter of which went on to become certified platinum by the Recording Industry Association of America (RIAA). Aiko released her major-label debut album, Souled Out, on September 9, 2014.",
-        "image": "images/Artists/jhene-aiko-650-1024x676.jpg"
-    }, 
-
-    {
-        "name": "Princess Nokia",
-        "description": "Destiny Nicole Frasqueri (born June 14, 1992) is an Afro-Nuyorican indie alternative hip-hop and alternative R&B recording artist and songwriter from the Bronx, New York City. Formerly known by her stage names \"Wavy Spice\" or \"Destiny\", she currently performs in a collaboratives duo known as Princess Nokia. She is also known for her collaboration with New York City hip hop group Ratking and their member Wiki.",
-        "image": "images/Artists/nokia-3-.jpg"
-    }, 
-
-    {
-        "name": "Dave",
-        "description": "David Santan (born 5 June 1998), known simply as Dave or Santan Dave, is an English rapper from Streatham, South London.Dave released the Six Paths EP and singles \"Thiago Silva\" and \"JKYL+HYD\" in 2016. His collaborator and production partner is 169 (Tyrell Paul).He has also worked with Fraser T Smith and AJ Tracey, and Drake has released a remix of one of his tracks.",
-        "image": "images/Artists/dave.jpg"
-    }, 
-
-    {
-        "name": "No I.D.",
-        "description": "Ernest Dion Wilson, professionally known as No I.D. (also known as Immenslope, born June 28, 1971), is an American hip hop and R & B music producer from Chicago, Illinois. Wilson is also a disc jockey (DJ), music arranger and rapper, having released an album in 1997, titled Accept Your Own and Be Yourself (The Black Album), under Relativity Records. He is perhaps best known for his early work with Chicago-based rapper Common. He has since become a heavily sought-out and high-profile producer, producing hit singles such as \"Smile\" by G-Unit, \"Outta My System\" and \"Let Me Hold You\" by Bow Wow, \"Heartless\" by Kanye West, \"D.O.A.\" by Jay Z and \"My Last\" by Big Sean.",
-        "image": "images/Artists/no-id-1024x801.jpg"
-    }, 
-
-    {
-        "name": "Earl Sweatshirt",
-        "description": "Thebe Neruda Kgositsile (born February 24, 1994), better known by his stage name Earl Sweatshirt, is an American hip hop recording artist, music producer, songwriter, and occasional actor from Los Angeles, California. He originally went by the moniker Sly Tendencies in 2008, but soon changed it when Tyler, The Creator invited him to join his hip hop collective Odd Future in late 2009. He gained recognition and critical praise for his debut mixtape Earl, released in March 2010. Following its release, his mother sent him to a boarding school in Samoa until his eighteenth birthday, and he was not able to produce new music for a year and a half.",
-        "image": "images/Artists/earl-sweatshirt.jpg"
-    }, 
+        "name": "Dom Kennedy",
+        "description": "",
+        "image": "images/Artists/dom_kennedy.jpg",
+        "role": "Rapper",
+        "member": "Other People?셲 Money",
+        "genres": "Hip-Hop, Rap",
+        "facebook": "https://www.facebook.com/DomKennedyMusic/",
+        "youtube": "https://www.youtube.com/user/DopeitsDom/",
+        "website": "http://www.dopeitsdom.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=44-_CWBFamc",
+        "soundcloud": "https://soundcloud.com/theoriginaldomkennedy"
+    },
 
     {
         "name": "Dr. Dre",
         "description": "Andre Romelle Young (born February 18, 1965), better known by his stage name Dr. Dre, is an American rapper, record producer, and entrepreneur. He is the founder and current CEO of Aftermath Entertainment and Beats Electronics. Dre was previously the co-owner of, and an artist on, Death Row Records. He has produced albums for and overseen the careers of many rappers, including 2Pac, The D.O.C., Snoop Dogg, Eminem, Xzibit, Knoc-turn'al, 50 Cent, The Game and Kendrick Lamar. He is credited as a key figure in the popularization of West Coast G-funk, a style of rap music characterized as synthesizer-based with slow, heavy beats. In 2014, Dr. Dre was ranked as the second richest figure in the American hip hop scene by Forbes with a net worth of $550 million; he is at the top of the 2015 Forbes list, with an estimated pre-tax take of $620 million in 2014.",
-        "image": "images/Artists/dr-dre-2-1024x560.jpg"
+        "image": "images/Artists/dr_dre.jpg",
+        "role": "Rapper, Songwriter, Producer",
+        "member": "Aftermath Entertainment, N.W.A., Death Row Records",
+        "genres": "Hip hop, Gangsta Rap, G-funk",
+        "facebook": "https://www.facebook.com/DrDre/",
+        "youtube": "https://www.youtube.com/user/DrDreVEVO/",
+        "website": "https://www.beatsbydre.com/",
+        "youtube_song": "https://www.youtube.com/user/DrDreVEVO/",
+        "soundcloud": ""
     },
 
     {
-        "name": "Kid Cudi",
-        "description": "Scott Ramon Seguro Mescudi (born January 30, 1984), better known by his stage name Kid Cudi (/ˈkɪd ˈkʌdi/ kid kud-ee, often stylized KiD CuDi), is an American recording artist and actor from Cleveland, Ohio. Cudi first gained major recognition following the release of his first official full-length project, a mixtape titled A Kid Named Cudi (2008). The mixtape caught the attention of American rapper-producer Kanye West, who subsequently signed Cudi to his GOOD Music label imprint in late 2008. Cudi has since gone on to launch his own record label imprints, the now-dissolved Dream On and current independent label, Wicked Awesome Records. Initially a rapper, Cudi has since added singer, songwriter, record producer, guitarist, music video director and film composer to his repertoire.",
-        "image": "images/Artists/kid-cudi-1024x1024.jpg"
-    },
-    
-    {
-        "name": "Skepta",
-        "description": "Joseph Junior Adenuga (born 19 September 1982), better known by his stage name Skepta, is an English grime artist, songwriter and record producer. Adenuga released his debut studio album Greatest Hits in late 2007 and his second, Microphone Champion in 2009, both independently, while his third studio album Doin' It Again was released in 2011 by AATW. His fourth studio album, Konnichiwa, was released on 6 May 2016 to critical acclaim, winning that year's Mercury Prize.",
-        "image": "images/Artists/skepta.jpg"
-    }, 
-
-    {
-        "name": "Kehlani",
-        "description": "Kehlani Ashley Parrish (born April 24, 1995), known professionally as Kehlani, is an American singer and songwriter who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group, Poplyfe, which was a finalist on America's Got Talent. She released her first mixtape, Cloud 19, in 2014. The album was listed among Complex's \"50 Best Albums of 2014.\" Kehlani's second mixtape, You Should Be Here, debuted at number 5 on the national R&B/Hip-Hop chart in 2015 and preceded her sold-out North American promotional tour. In 2016, she was nominated for the Best Urban Contemporary Album Grammy Award for You Should Be Here. Kehlani's debut album SweetSexySavage will be released on January 27, 2017.",
-        "image": "images/Artists/Kehlani12496_2.jpg"
-    }, 
-
-    {
-        "name": "A Boogie wit da Hoodie",
-        "description": "Artist J. Dubose (born December 6, 1995), better known by his stage name A Boogie wit da Hoodie (or simply A Boogie), is an American hip hop recording artist and record producer from Highbridge, Bronx, New York City. He is best known for his breakout single \"My Shit\", from his debut solo mixtape Artist (2016).",
-        "image": "images/Artists/13721141_826668260797805_1525171040_n.jpg"
-    },
-    
-    {
-        "name": "October's Very Own",
-        "description": "October's Very Own Sound, nicknamed OVO Sound, is a Canadian record label founded by hip hop artist Drake, Oliver El-Khatib, and long-time producer Noah \"40\" Shebib in 2012. It operates as a subsidiary of, and is distributed through, Warner Music Group's Warner Bros. Records. Current acts include Drake himself, PARTYNEXTDOOR, Majid Jordan, OB O'Brien, Roy Woods and dvsn as well as in-house producers 40, Boi-1da, T-Minus, Mike Zombie, Nineteen85 and Future the Prince.",
-        "image": "images/Artists/GROUP_16_035_OFFWHITE-2.jpg"
+        "name": "Drake",
+        "description": "Aubrey Drake Graham (born October 24, 1986), known simply as Drake, is a Canadian rapper, singer, songwriter, record producer, and actor. Drake initially gained recognition as an actor on the teen drama television series Degrassi: The Next Generation in the early 2000s. Intent on pursuing a career as a rapper, he departed the series in 2007 following the release of his debut mixtape, Room for Improvement. He released two further independent projects, Comeback Season and So Far Gone, before signing to Lil Wayne's Young Money Entertainment in June 2009.",
+        "image": "images/Artists/drake.png",
+        "role": " Singer, Rapper",
+        "member": "Young Money, October's Very Own, Universal ",
+        "genres": "Hip Hop, R & B, Pop",
+        "facebook": "https://www.facebook.com/Drake",
+        "youtube": "https://www.youtube.com/watch?v=IQKSc-bv7Io",
+        "website": "http://www.drakeofficial.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=RubBzkZzpUA",
+        "soundcloud": "https://soundcloud.com/drakeofficial"
     },
 
     {
         "name": "DVSN",
         "description": "Daniel Daley and Anthony Paul Jefferies.",
-        "image": "images/Artists/dvsn.jpg"
+        "image": "images/Artists/dvsn.jpg",
+        "role": "Singer, Songwriter, Producer ",
+        "member": "DVSN, OVO ",
+        "genres": "R&B",
+        "facebook": "",
+        "youtube": "https://www.youtube.com/channel/UC9xq-hVeC-OJHvWOxGydo9g",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=hdHj7Ede5Ng",
+        "soundcloud": "https://soundcloud.com/dvsndvsn"
+    },
+
+    {
+        "name": "E-40",
+        "description": "",
+        "image": "images/Artists/e_40.jpg",
+        "role": "Rapper",
+        "member": "Heavy on the Grind / EMI",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/e40/",
+        "youtube": "https://www.youtube.com/user/E40TV",
+        "website": "https://twitter.com/e40",
+        "youtube_song": "https://www.youtube.com/watch?v=MxgTmM-7rm0",
+        "soundcloud": "https://soundcloud.com/e40"
+    },
+
+    {
+        "name": "Earl Sweatshirt",
+        "description": "Thebe Neruda Kgositsile (born February 24, 1994), better known by his stage name Earl Sweatshirt, is an American hip hop recording artist, music producer, songwriter, and occasional actor from Los Angeles, California. He originally went by the moniker Sly Tendencies in 2008, but soon changed it when Tyler, The Creator invited him to join his hip hop collective Odd Future in late 2009. He gained recognition and critical praise for his debut mixtape Earl, released in March 2010. Following its release, his mother sent him to a boarding school in Samoa until his eighteenth birthday, and he was not able to produce new music for a year and a half.",
+        "image": "images/Artists/earl_sweatshirt.jpg",
+        "role": "Rapper, Producer, Songwriter",
+        "member": "Odd Future, Columbia Records",
+        "genres": "Hip hop",
+        "facebook": "https://www.facebook.com/EarlSweatshirtMusic/",
+        "youtube": "https://www.youtube.com/user/EarlSweatshirtVEVO/videos",
+        "website": "http://earlsweatshirt.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=wrxxfrzJY6k",
+        "soundcloud": "https://soundcloud.com/earlxsweatshirtmusic"
+    },
+
+    {
+        "name": "Eminem",
+        "description": "Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (often stylized as EMINƎM), is an American rapper, record producer, and actor. Eminem is the best-selling artist of the 2000s in the United States. Throughout his career, he has had 10 number-one albums on the Billboard 200 and five number-one singles on the Billboard Hot 100. With US sales of 45.1 million albums and 42 million tracks as of June 2014, Eminem is the second best-selling male artist of the Nielsen SoundScan era, the sixth best-selling artist in the United States and the best-selling hip-hop artist. Globally, he has sold more than 172 million albums, thus being one of the world's best-selling artists. Rolling Stone ranked him 83rd on its list of 100 Greatest Artists of All Time, calling him the King of Hip Hop.",
+        "image": "images/Artists/eminem.jpg",
+        "role": "Rapper, Singer, Songwriter, Producer",
+        "member": "Shady Records, Interscope",
+        "genres": "Hip-hop, rap",
+        "facebook": "https://www.facebook.com/eminem",
+        "youtube": "https://www.youtube.com/user/EminemVEVO",
+        "website": "http://www.eminem.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=XbGs_qK2PQA",
+        "soundcloud": "https://soundcloud.com/eminemofficial"
+    },
+
+    {
+        "name": "FKA TWIGS",
+        "description": "Tahliah Debrett Barnett (born 16 January 1988), known by the stage name FKA Twigs (stylised as FKA twigs), is an English singer, songwriter, record producer, director and dancer. Raised in Gloucestershire, she became a backup dancer after moving to south London when she was 17 years old. She entered the music industry with the release of her extended plays EP1 (2012) and EP2 (2013).Her debut studio album LP1 (2014) was released to critical acclaim, peaking at number 16 on the UK Albums Chart and number 30 on the US Billboard 200.She released the M3LL155X EP in 2015 to further critical praise. Her work has been described as \"genre-bending\", drawing on various genres including electronic music, punk, R&B, and the avant-garde.",
+        "image": "images/Artists/fka_twigs.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Flying Lotus",
+        "description": "",
+        "image": "images/Artists/flying_lotus.jpg",
+        "role": "Musician / Producer / Rapper",
+        "member": "Warp / Brainfeeder / Plug Researcher",
+        "genres": "Hip-Hop / Electronic / Jazz",
+        "facebook": "https://www.facebook.com/flyinglotus/",
+        "youtube": "https://www.youtube.com/channel/UCj3NRzD4qFJ-zN2iPeF_fMg",
+        "website": "http://www.flying-lotus.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=Ak4vLEBxIo4",
+        "soundcloud": "https://soundcloud.com/flyinglotus"
+    },
+
+    {
+        "name": "Frank Dukes",
+        "description": "Adam King Feeney",
+        "image": "images/Artists/frank_dukes.jpg",
+        "role": "",
+        "member": "OVO",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Frank Ocean",
+        "description": "Christopher Francis \"Frank\" Ocean (born Christopher Edwin Breaux; October 28, 1987), is an American singer, songwriter, and rapper. Known for his idiosyncratic musical style, Ocean first embarked on a career as a ghostwriter, and in 2010 he became a member of hip hop collective Odd Future. He released his breakout mixtape, Nostalgia, Ultra, to critical acclaim in 2011. It generated his first charting single \"Novacane\". In 2012, Ocean finished in second place in BBC's Sound of 2012 poll. His debut studio album, Channel Orange, was released in July 2012 to critical acclaim and reached No. 2 on the Billboard 200. It was promoted with three singles: \"Thinkin Bout You\", \"Pyramids\" and \"Sweet Life\". In 2016, Ocean released the visual album Endless alongside his second studio album Blonde, following several years of delays. Blonde was acclaimed by critics, and debuted at number one in the United States and the United Kingdom.",
+        "image": "images/Artists/frank_ocen.png",
+        "role": "Singer, Producer, Songwriter, Composer",
+        "member": "Odd Future, OFWGKTA",
+        "genres": "Blue Grass, Indie, Hip-Hop, Rythym & Blues, Jazz, Soul",
+        "facebook": "https://www.facebook.com/frankocean/",
+        "youtube": "",
+        "website": "http://frankocean.tumblr.com",
+        "youtube_song": "https://www.youtube.com/watch?v=A5rr38ryOgo",
+        "soundcloud": "https://soundcloud.com/frankocean"
+    },
+
+    {
+        "name": "Fredo Santana",
+        "description": "Derrick Coleman",
+        "image": "images/Artists/fredo_santana.jpg",
+        "role": "Rapper",
+        "member": "GLO GANG, BLOOD MONEY, LAMRON",
+        "genres": "Hip-Hop, Rap",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Future",
+        "description": "Nayvadius DeMun Wilburn",
+        "image": "images/Artists/future.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Future the Prince",
+        "description": "Adel Nur",
+        "image": "images/Artists/future_prince.jpg",
+        "role": "DJ, Manager ",
+        "member": "OVO",
+        "genres": "Hip-Hop, Rap, Producer ",
+        "facebook": "https://www.facebook.com/Future-The-Prince-106834786053422/",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=ijGkZhUnBiA",
+        "soundcloud": "https://soundcloud.com/futuretheprincemusic"
+    },
+
+    {
+        "name": "Ghostface Killa",
+        "description": "Ghostface Killa",
+        "image": "images/Artists/ghostface.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Giggs",
+        "description": "Nathaniel Thomson (born 11 May 1983), better known by his stage name Giggs, is an English rapper from London. Giggs was signed to XL Recordings in 2009. He is known for his creative wordplay and catchphrases. In 2008 he released his debut studio album Walk in da Park and released a follow-up album, Let Em Ave It the following year peaking at number 35 on the UK Albums Chart. The singles \"Don't Go There\" featuring B.o.B and \"Look What the Cat Dragged In\" both charted in the top 60 of the UK Singles Chart. Giggs released his third studio album When Will It Stop, in October 2013. In 2016, Giggs released his fourth album Landlord, which entered and peaked at number 2 on the UK Albums Chart becoming Giggs' highest-charting album of his career. It is also his most critically acclaimed album. He is the leader of SN1 (Spare No 1), alongside his brothers Gunna Dee, Joe Grind, Spender and Young Giggs (YG), Kyze and Tiny Boost. The group's main producers are Boom Productions (a.k.a. BoomBlast), Universe, Pablo Productions, Paws Productions, Bayoz Musik and upcoming music producer Mitz Productions.",
+        "image": "images/Artists/giggs.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Gucci Mane",
+        "description": "Gucci Mane",
+        "image": "images/Artists/gucci.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Illangelo",
+        "description": "Carlo Montagnese (born July 29, 1987), better known as Illangelo, is a Grammy Award-winning Canadian producer, songwriter, musician and mixing engineer from Calgary, Alberta, who came to fame as long-time collaborator of The Weeknd. His work includes executive production of The Weeknd's 2011 mixtapes, the 2012 compilation album from The Weeknd titled Trilogy along with singles from rappers Wiz Khalifa's \"Remember You\", Drake's \"Crew Love\", Ricky Hil's \"Nomads\", all those featuring The Weeknd, and remixes such as Lady Gaga \"Marry The Night (The Weeknd & Illangelo Remix)\" and Florence and the Machine's \"Shake It Out (The Weeknd Remix)\". He released his debut concept album History of Man on August 20, 2013 under his label Hear the Art Inc. & Bromance Records.",
+        "image": "images/Artists/illangelo.jpg",
+        "role": "Producer, Composer, Engineer",
+        "member": "Hear the Art Inc., Bromance Records, XO",
+        "genres": "Electronic,Hip-Hop, Trip-Hop, Alternative R&B",
+        "facebook": "https://www.facebook.com/illangelo",
+        "youtube": "",
+        "website": "http://www.somewhere-else.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=Qa2mHdJzahU",
+        "soundcloud": "https://soundcloud.com/illangelo"
+    },
+
+    {
+        "name": "J. Cole",
+        "description": "Jermaine Lamar Cole better known by his stage name J. Cole, is an American recording artist and record producer. Raised in Fayetteville, North Carolina, Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up, in early 2007. Intent on further pursuing a solo career as a rapper, he would go on to release two additional mixtapes after signing to Jay Z's Roc Nation imprint in 2009.",
+        "image": "images/Artists/j_cole.jpg",
+        "role": "Rapper, Producer, Composer, Singer",
+        "member": "Dreamville, Roc-Nation, Def Jam",
+        "genres": "Hip-Hop, Jazz, Soul",
+        "facebook": "https://www.facebook.com/JColeMusic/",
+        "youtube": "",
+        "website": "http://www.jcolemusic.com/",
+        "youtube_song": "https://www.youtube.com/user/DreamvilleRecords",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Jhené Aiko",
+        "description": "Jhené Aiko Efuru Chilombo (born March 16, 1988), known as Jhené Aiko or Jhené, is an American singer and songwriter. She embarked on her music career contributing vocals and appearing in several music videos for R&B group B2K. At the time, she was known as B2K member Lil' Fizz's \"cousin\", though she is not actually related to him. It was used as a marketing tool, suggested by Sony and Epic Records, to promote Aiko through B2K and attract an audience. In 2003, Aiko was set to release her debut album, My Name Is Jhené, through her labels Sony, The Ultimate Group and Epic, however the album was never released, with Aiko asking to be released from the label in order to continue her education. In March 2011, Aiko made her return to music with the release of her first full-length project, a mixtape titled Sailing Soul(s). On December 16, 2011, Aiko signed a recording contract with American record producer No I.D.'s record label Artium, distributed through Def Jam Recordings. In 2013, Aiko appeared on Big Sean's single \"Beware\", also featuring Lil Wayne, which became her first top 40 hit on the US Billboard Hot 100 chart. In November 2013, she released her first project for Artium and Def Jam, an extended play (EP), titled Sail Out. The EP was supported by the singles \"3:16AM\", \"Bed Peace\" and \"The Worst\", the latter of which went on to become certified platinum by the Recording Industry Association of America (RIAA). Aiko released her major-label debut album, Souled Out, on September 9, 2014.",
+        "image": "images/Artists/jhene_aiko.jpg",
+        "role": "Singer",
+        "member": "ARTium, Def Jam",
+        "genres": "R&b, hip hop, soul",
+        "facebook": "https://www.facebook.com/jhene.aiko.589/",
+        "youtube": "https://www.youtube.com/user/JheneAikoVEVO",
+        "website": "http://www.jheneaiko.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=0pWgLPOgwNc",
+        "soundcloud": "https://soundcloud.com/jhene-aiko-1"
+    },
+
+    {
+        "name": "Joey Badass",
+        "description": "Jo-Vaughn Virginie Scott (born January 20, 1995) better known by his stage name Joey Badass is an New York hip-hop recording artist.Raised in Brooklyn, New York, he is a founding member of the hip-hop collective Pro Era, with whom he has released three mixtapes. He released his debut mixtape, 1999, in June 2012 to critical acclaim and recognition, followed by Rejex in September, and Summer Knights on July 1, 2013. His debut studio album, B4.DA.$$, was released January 20, 2015.",
+        "image": "images/Artists/Joey_Badass.jpg",
+        "role": "Rapper ",
+        "member": "Pro Era, Cinematic, Relentless",
+        "genres": "Alternative Hip-Hop",
+        "facebook": "https://www.facebook.com/fckingbadass",
+        "youtube": "https://www.youtube.com/watch?v=2XS_-mhoMq0",
+        "website": "http://theproera.com/",
+        "youtube_song": "",
+        "soundcloud": "https://soundcloud.com/cinematicmusicgroup/joey-badass-victory"
+    },
+
+    {
+        "name": "Johnny Rain",
+        "description": "",
+        "image": "images/Artists/johnny_rain.jpg",
+        "role": "Singer , Producer",
+        "member": "Odd Dream Republic",
+        "genres": "Alternative R&B , Avant Fusion",
+        "facebook": "https://www.facebook.com/JohnnyRainOD",
+        "youtube": "https://www.youtube.com/channel/UCMH6ztZMXkS7WNSDjHWvokg",
+        "website": "http://odrepublic.com/home/",
+        "youtube_song": "https://www.youtube.com/watch?v=sGqdTaZ2e2Q",
+        "soundcloud": "https://soundcloud.com/odrepublic/sets/johnny-rain-11"
+    },
+
+    {
+        "name": "Juelz Santana",
+        "description": "LaRon Louis James",
+        "image": "images/Artists/juelz_santana.jpg",
+        "role": "RAPPER,PRODUCER",
+        "member": "DIPSET, BIRD GANG, SKULL GANG, DEF JAM, THE DIPLOMATS,ROC-A-FELLA",
+        "genres": "HIP-HOP, RAP",
+        "facebook": "",
+        "youtube": "",
+        "website": "https://twitter.com/thejuelzsantana",
+        "youtube_song": "https://www.youtube.com/watch?v=tkGf7Mlk3x4",
+        "soundcloud": "https://soundcloud.com/juelz-santana"
+    },
+
+    {
+        "name": "Kamaiyah",
+        "description": "Kamaiyah Jamesha Johnson (born March 13, 1995) is an American rapper and singer from Oakland, California. She released her acclaimed debut mixtape A Good Night in the Ghetto in 2016. She was featured along with Drake on the YG single \"Why You Always Hatin?\".  Kamaiyah Johnson was born in Oakland, California. She is inspired by 1990s artists such as TLC, Missy Elliott, and Aaliyah. Her debut single \"How Does It Feel\" premiered late in 2015 and was ranked one of the year's best songs by Pitchfork and NPR. She released her debut mixtape, A Good Night in the Ghetto, in March 2016 to favorable reviews. Kamaiyah performed at South by Southwest that month in Austin, Texas. She released a music video for the track \"For My Dawg\" in May. She features, along with Drake, on YG's \"Why You Always Hatin?\", a single from his 2016 album Still Brazy.",
+        "image": "images/Artists/kamaiyah.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Kanye West",
+        "description": "Kanye West",
+        "image": "images/Artists/kanye_west.jpeg",
+        "role": "Singer / Rapper / Producer",
+        "member": "GOOD MUSIC, ROC-A-FELLA, DEF JAM",
+        "genres": "Hip-Hop, JAZZ, RAP,ALTERNATIVE,POP,SOUL,ELECTRONIC",
+        "facebook": "https://www.facebook.com/TheOfficialKanyeWest/",
+        "youtube": "https://www.youtube.com/user/KanyeWestVEVO",
+        "website": "http://www.kanyewest.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=IxGvm6btP1A",
+        "soundcloud": "https://soundcloud.com/kanyewest"
+    },
+
+    {
+        "name": "Kehlani",
+        "description": "Kehlani Ashley Parrish  (born April 24, 1995), known professionally as Kehlani, is an American singer and songwriter who is currently signed to Atlantic Records.Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group, Poplyfe, which was a finalist on America's Got Talent. She released her first mixtape, Cloud 19, in 2014. The album was listed among Complex's \"50 Best Albums of 2014.\" Kehlani's second mixtape, You Should Be Here, debuted at number 5 on the national R&B/Hip-Hop chart in 2015 and preceded her sold-out North American promotional tour. In 2016, she was nominated for the Best Urban Contemporary Album Grammy Award for You Should Be Here. Kehlani's debut album SweetSexySavage will be released on January 27, 2017.",
+        "image": "images/Artists/kehlani.jpg",
+        "role": "Singer",
+        "member": "Atlantic ",
+        "genres": "R&B",
+        "facebook": "https://www.facebook.com/Kehlanimusic/",
+        "youtube": "https://www.youtube.com/watch?v=K9_s38Qn5k4",
+        "website": "http://kehlanimusic.com/sweetsexysavage/",
+        "youtube_song": "",
+        "soundcloud": "https://soundcloud.com/kehlanimusic"
+    },
+
+    {
+        "name": "Kendrick Lamar",
+        "description": "Kendrick Lamar",
+        "image": "images/Artists/kendrick_lamar.jpg",
+        "role": "",
+        "member": "TDE, Aftermath, Black Hippie, Interscope",
+        "genres": "Hip-Hop, Alt. R&B, ",
+        "facebook": "https://www.facebook.com/kendricklamar/",
+        "youtube": "https://www.youtube.com/user/KendrickLamarVEVO",
+        "website": "http://www.kendricklamar.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=hRK7PVJFbS8",
+        "soundcloud": "https://soundcloud.com/kendrick-lamar-music"
+    },
+
+    {
+        "name": "Kid Cudi",
+        "description": "Scott Ramon Seguro Mescudi (born January 30, 1984), better known by his stage name Kid Cudi (/ˈkɪd ˈkʌdi/ kid kud-ee, often stylized KiD CuDi), is an American recording artist and actor from Cleveland, Ohio. Cudi first gained major recognition following the release of his first official full-length project, a mixtape titled A Kid Named Cudi (2008). The mixtape caught the attention of American rapper-producer Kanye West, who subsequently signed Cudi to his GOOD Music label imprint in late 2008. Cudi has since gone on to launch his own record label imprints, the now-dissolved Dream On and current independent label, Wicked Awesome Records. Initially a rapper, Cudi has since added singer, songwriter, record producer, guitarist, music video director and film composer to his repertoire.",
+        "image": "images/Artists/kid_cudi.jpg",
+        "role": "Rapper , Singer , Songwriter , Producer",
+        "member": "Wicked Awesome , Republic Records , GOOD Music",
+        "genres": "Hip-hop , alternative rock",
+        "facebook": "https://www.facebook.com/kidcudi/",
+        "youtube": "https://www.youtube.com/channel/UCsiY9eX1oL0a-_yWoYtkbQA",
+        "website": "https://www.kidcudishop.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=7xzU9Qqdqww",
+        "soundcloud": "https://soundcloud.com/cudderland"
+    },
+
+    {
+        "name": "KRS One",
+        "description": "KRS One",
+        "image": "images/Artists/krs.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil B",
+        "description": "Lil B",
+        "image": "images/Artists/lil_b.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Boosie",
+        "description": "Lil Boosie",
+        "image": "images/Artists/lil_boosie.jpeg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Jon",
+        "description": "Lil Jon",
+        "image": "images/Artists/lil_jon.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Kim",
+        "description": "Lil Kim",
+        "image": "images/Artists/lil_kim.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Reese",
+        "description": "",
+        "image": "images/Artists/lil_reese.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Uzi Vert",
+        "description": "",
+        "image": "images/Artists/lil_uzi.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Lil Wayne",
+        "description": "",
+        "image": "images/Artists/lil_wayne.jpg",
+        "role": "Rapper",
+        "member": "Cash Money",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/LilWayne/",
+        "youtube": "https://www.youtube.com/user/YMWayneCarter",
+        "website": "http://www.youngmoney.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=jLpkYHCKXHk",
+        "soundcloud": "https://soundcloud.com/lilwayne"
+    },
+
+    {
+        "name": "Lil Yachty",
+        "description": "",
+        "image": "images/Artists/lil_yachty.gif",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "LL Cool J",
+        "description": "LL Cool J",
+        "image": "images/Artists/ll_cool_j.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Ludacris",
+        "description": "Ludacris",
+        "image": "images/Artists/ludacris.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     },
 
     {
         "name": "Majid Jordan",
-        "description": "Majid Al-Maskati and Jordan Ullman ",
-        "image": "images/Artists/Majid-Jordan-Interview-Highsnobiety-feature.jpg"
+        "description": "Majid Al-Maskati and Jordan Ullman",
+        "image": "images/Artists/majid_jordan.jpg",
+        "role": "Singer, Songwriter, Producer",
+        "member": "OVO",
+        "genres": "Electronic, Funk, R&B",
+        "facebook": "https://www.facebook.com/majidjordanmusic",
+        "youtube": "https://www.youtube.com/user/majidjordan",
+        "website": "http://majidjordan.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=wI5sqqbwSeg",
+        "soundcloud": "https://soundcloud.com/majidjordan"
     },
-    
+
     {
-        "name": "THEY",
-        "description": "",
-        "image": "images/Artists/they_1.jpg"
+        "name": "Meek Mill",
+        "description": "Robert Williams",
+        "image": "images/Artists/meek_mill.jpeg",
+        "role": "Rapper",
+        "member": "Dreamchasers, Maybach Music",
+        "genres": "Street, Philly Rap",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     },
-    
+
     {
-        "name": "Tyler, The Creator",
+        "name": "Method Man",
         "description": "",
-        "image": "images/Artists/tyler-the-creator-1024x1019.jpg"
+        "image": "images/Artists/method_man.jpg",
+        "role": "Rapper / Producer",
+        "member": "Def Jam",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/methodman/",
+        "youtube": "https://www.youtube.com/channel/UCDP3pzdWHiMFZYxntz8zAvw",
+        "website": "https://twitter.com/methodman",
+        "youtube_song": "https://www.youtube.com/watch?v=T0BlXy3Roj4",
+        "soundcloud": "https://soundcloud.com/method-man-official"
     },
-    
+
     {
-        "name": "Dom Kennedy",
-        "description": "",
-        "image": "images/Artists/Dom-Kennedy-Reveals-Album-Release-Date-MusicSnake-1024x576.jpg"
+        "name": "Metro Boomin",
+        "description": "Leland Tyler Wayne (born September 16, 1993), professionally known as Metro Boomin(also known as young Metro or simply Metro), is an American record producer, songwriter and DJ from St. Louis, Missouri currently based in Atlanta.",
+        "image": "images/Artists/metro_boomin.jpg",
+        "role": "Producer, Songwriter, Rapper",
+        "member": " FreeBandz, Epic ",
+        "genres": "Hip-Hop, TRAP",
+        "facebook": "https://www.facebook.com/MetroBoomin/",
+        "youtube": "https://www.youtube.com/user/314Metro",
+        "website": "http://www.metroboomin.net/",
+        "youtube_song": "https://www.youtube.com/watch?v=ZAPu_qbiezg",
+        "soundcloud": "https://soundcloud.com/metroboomin"
     },
-    
+
+    {
+        "name": "N.O.R.E.",
+        "description": "",
+        "image": "images/Artists/nore.jpg",
+        "role": "Rapper",
+        "member": "Penalty",
+        "genres": "Hip-Hop",
+        "facebook": "",
+        "youtube": "https://www.youtube.com/channel/UC8yZ05ujBPnEbCtnLMdbavw",
+        "website": "https://twitter.com/noreaga?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "youtube_song": "https://www.youtube.com/watch?v=lAU20iMhz2c",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Nas",
+        "description": "Nas",
+        "image": "images/Artists/nas.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "NAV",
+        "description": "",
+        "image": "images/Artists/nav.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Nikki Minaj",
+        "description": "Onika Tanya Maraj",
+        "image": "images/Artists/nikki_minaj.png",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Nineteen85",
+        "description": "Anthony Paul Jefferies",
+        "image": "images/Artists/nineteen85.jpg",
+        "role": "Producer,DJ,",
+        "member": "OVO,OMO.FERRINA",
+        "genres": "HIP-HOP,JAZZ,R&B,SOUL,RAP",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "No I.D.",
+        "description": "Ernest Dion Wilson, professionally known as No I.D. (also known as Immenslope, born June 28, 1971), is an American hip hop and R&B music producer from Chicago, Illinois. Wilson is also a disc jockey (DJ), music arranger and rapper, having released an album in 1997, titled Accept Your Own and Be Yourself (The Black Album), under Relativity Records. He is perhaps best known for his early work with Chicago-based rapper Common. He has since become a heavily sought-out and high-profile producer, producing hit singles such as \"Smile\" by G-Unit, \"Outta My System\" and \"Let Me Hold You\" by Bow Wow, \"Heartless\" by Kanye West, \"D.O.A.\" by Jay Z and \"My Last\" by Big Sean.",
+        "image": "images/Artists/no_id.jpg",
+        "role": "Producer, DJ, Rapper, Songwriter",
+        "member": "ARTium, Cocaine 80s, Def Jam, GOOD Music",
+        "genres": "Hip hop, R&B",
+        "facebook": "",
+        "youtube": "",
+        "website": "http://worldofartium.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=2z9fNaI9m_c",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "October's Very Own",
+        "description": "October's Very Own Sound, nicknamed OVO Sound, is a Canadian record label founded by hip hop artist Drake, Oliver El-Khatib, and long-time producer Noah \"40\" Shebib in 2012. It operates as a subsidiary of, and is distributed through, Warner Music Group's Warner Bros. Records. Current acts include Drake himself, PARTYNEXTDOOR, Majid Jordan, OB O'Brien, Roy Woods and dvsn as well as in-house producers 40, Boi-1da, T-Minus, Mike Zombie, Nineteen85 and Future the Prince.",
+        "image": "images/Artists/october.jpg",
+        "role": "Clothing, production, songwriting, merchandise ",
+        "member": "OVO",
+        "genres": "Hip-Hop, Canadian Hip-hop ",
+        "facebook": "",
+        "youtube": "",
+        "website": "http://octobersveryown.blogspot.com/",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "PARTYNEXTDOOR",
+        "description": "Jahron Anthony Brathwaite (born July 3, 1993), better known under the stage name PartyNextDoor (stylized as PARTYNEXTDOOR), is a Canadian rapper, singer, songwriter and record producer. He was the first artist signed to Drake's OVO Sound record label in 2013. Later that year, he released his first EP self-titled PartyNextDoor. Subsequently, PartyNextDoor released PartyNextDoor Two and PNDColours in 2014 and PartyNextDoor 3 in 2016. PartyNextDoor has worked with other artists, including Drake, Big Sean and Jeremih, and he penned \"Work\" and \"Sex with Me\" on Rihanna's album Anti.",
+        "image": "images/Artists/party_nextdoor.png",
+        "role": "Rapper / Producer",
+        "member": "OVO Sound, OMO , Ferina",
+        "genres": "Hip-Hop / R&B",
+        "facebook": "https://www.facebook.com/Partyomo/",
+        "youtube": "https://www.youtube.com/user/PARTYOMO",
+        "website": "http://www.partyomo.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=Ockhq8E2FrA",
+        "soundcloud": "https://soundcloud.com/partyomo"
+    },
+
+    {
+        "name": "Pharrell",
+        "description": "",
+        "image": "images/Artists/pharrell.jpg",
+        "role": "Rapper / Singer",
+        "member": "N*E*RD*, Star Trak",
+        "genres": "Hip-Hop / R&B",
+        "facebook": "https://www.facebook.com/Pharrell/",
+        "youtube": "https://www.youtube.com/channel/UCtQMmwBJGvINGU0lZ_GrZKQ",
+        "website": "http://pharrellwilliams.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=LOtkH5amC7s",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Post Malone",
+        "description": "Austin Richard Post",
+        "image": "images/Artists/post_malone.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Princess Nokia",
+        "description": "Destiny Nicole Frasqueri (born June 14, 1992) is an Afro-Nuyorican indie alternative hip-hop and alternative R&B recording artist and songwriter from the Bronx, New York City. Formerly known by her stage names \"Wavy Spice\" or \"Destiny\", she currently performs in a collaboratives duo known as Princess Nokia. She is also known for her collaboration with New York City hip hop group Ratking and their member Wiki.",
+        "image": "images/Artists/princess_nokia.jpg",
+        "role": "Singer, Rapper, Songwriter, Feminist",
+        "member": "Independent ",
+        "genres": "Hip-Hop, TRAP, R & B, Electronic",
+        "facebook": "https://www.facebook.com/Princess-Nokia-262313607311498/",
+        "youtube": "https://www.youtube.com/user/dnfrasqueri/videos",
+        "website": "princessnokia.org",
+        "youtube_song": "https://www.youtube.com/watch?v=8p1F5Spxfv0",
+        "soundcloud": "https://soundcloud.com/destiny-frasqueri"
+    },
+
+    {
+        "name": "Pusha T",
+        "description": "Terrence LeVarr Thornton",
+        "image": "images/Artists/pusha_t.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Q-Tip",
+        "description": "Q-Tip",
+        "image": "images/Artists/q_tip.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "RAKIM",
+        "description": "RAKIM",
+        "image": "images/Artists/rakim.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Redman",
+        "description": "",
+        "image": "images/Artists/redman.jpg",
+        "role": "Rapper ",
+        "member": "Def Jam",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/redmansworld/",
+        "youtube": "https://www.youtube.com/user/FUNKDOCTV/",
+        "website": "http://redmansworld.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=WxY5BPvNiqw",
+        "soundcloud": "https://soundcloud.com/redmansworld"
+    },
+
+    {
+        "name": "Rick Ross",
+        "description": "",
+        "image": "images/Artists/rick_ross.png",
+        "role": "Rapper / Entrepreneur / Producer ",
+        "member": "Maybach Music Group",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/rickross/",
+        "youtube": "https://www.youtube.com/user/RickRossVEVO",
+        "website": "http://www.rozayraw.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=Jz2K2Rjd7rQ",
+        "soundcloud": "https://soundcloud.com/rickyrozaymmg"
+    },
+
+    {
+        "name": "Rico Love",
+        "description": "Richard Preston Butler, Jr. (born December 3, 1982), better known by his stage name Rico Love, is an American singer-songwriter, record producer and rapper. He was born in New Orleans, Louisiana, but split his childhood between Milwaukee, Wisconsin and New York City's Harlem neighborhood. He attended Florida A&M and, while visiting Atlanta, Georgia, worked his way into the music industry through connections with Usher, who would become Love's mentor. The first song Love ever wrote in his career was \"Throwback\" for which ended up on Usher's 2004 album \"Confessions.\" Love success continued writing and producing hit records such as Usher's \"There Goes My Baby\" and \"Hey Daddy (Daddy's Home)\", Nelly's \"Just a Dream\" and \"Gone\", as well as Beyoncé Knowles' \"Sweet Dreams\". and has contributed to works which have gone on to win Grammys such as Beyoncé's 2009 Best Contemporary R&B album I Am... Sasha Fierce, Usher's 2010 Best Contemporary R&B album Raymond v. Raymond, and Usher's 2010 Best Male R&B Vocal Performance \"There Goes My Baby\". In addition Love has written and produced records for Kelly Rowland, Diddy - Dirty Money, Chris Brown, Alexandra Burke, Keri Hilson, Fergie, and Fantasia.",
+        "image": "images/Artists/rico_love.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Rihanna",
+        "description": "Robyn Rihanna Fenty (/riˈænə/; born February 20, 1988) is a Barbadian singer and songwriter. Born in Saint Michael and raised in Bridgetown, she first entered the music industry by recording demo tapes under the direction of record producer Evan Rogers in 2003. She ultimately signed a recording contract with Def Jam Recordings after auditioning for its then-president, hip hop producer and rapper Jay Z. In 2005, Rihanna rose to fame with the release of her debut studio album Music of the Sun and its follow-up A Girl like Me (2006), which charted on the top 10 of the U.S. Billboard 200 and respectively produced the hit singles \"Pon de Replay\" and \"SOS\".",
+        "image": "images/Artists/rihanna.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
     {
         "name": "Roy Woods",
         "description": "Denzel Spencer known publicly as Roy Woods is a Canadian rapper, singer and songwriter from Brampton, Ontario.",
-        "image": "images/Artists/Roy-Woods.jpg"
+        "image": "images/Artists/roy_woods.jpg",
+        "role": "Singer, Rapper ,Producer ",
+        "member": "OVO, UTU",
+        "genres": "RAP, GRUNGE & B, Hip-Hop",
+        "facebook": "https://www.facebook.com/roywoods",
+        "youtube": "https://www.youtube.com/channel/UCN_uuL0yjn9H5fnFqpo2S1w/videos",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": "https://soundcloud.com/roywoodsofficial"
     },
-        
+
+    {
+        "name": "RZA",
+        "description": "Robert Fitzgerald Diggs (born July 5, 1969), better known by his stage name RZA (/ˈrɪzə/ riz-ə), is an American rapper, record producer, musician, actor, filmmaker and author. A prominent figure in hip hop, RZA is the de facto leader of the Wu-Tang Clan. He has produced almost all of Wu-Tang Clan's albums as well as many Wu-Tang solo and affiliate projects. He is a cousin of the late group-mate Ol' Dirty Bastard and GZA (who also formed the group with RZA). He has also released solo albums under the alter-ego Bobby Digital, along with executive producing credits for side projects. In addition to the Wu-Tang Clan and his solo releases, RZA was also a founding member of the horrorcore group Gravediggaz where he used the name The RZArector. Furthermore, he has acted in several movies, including Coffee and Cigarettes, American Gangster, Gospel Hill, Life Is Hot in Cracktown, Ghost Dog, Funny People, Derailed, Due Date and Repo Men. He also appeared in the Showtime TV series Californication. His directorial debut is for the film he co-wrote and in which he plays the title role, The Man with the Iron Fists, also starring Russell Crowe. The magazine The Source placed him on its list of the 20 greatest producers in the magazine's twenty-year history. He also made the \"Elite 8\" in the search for The Greatest Hip-Hop Producer of All Time by Vibe. NME placed him on their list of the 50 Greatest Producers Ever.",
+        "image": "images/Artists/rza.jpg",
+        "role": "Rapper, Producer",
+        "member": "Wu Tang Clan",
+        "genres": "Rap, Hip-hop",
+        "facebook": "https://www.facebook.com/RZAWU/",
+        "youtube": "",
+        "website": "http://www.wutang-corp.com/artists/wu-artist.php?id=9",
+        "youtube_song": "https://www.youtube.com/watch?v=VLygwYTd_Uc",
+        "soundcloud": "https://soundcloud.com/rzawu"
+    },
+
+    {
+        "name": "Sampha",
+        "description": "Sampha Sisay, who uses the stage name Sampha, is a British singer, songwriter and record producer from Morden, South London, United Kingdom. Sampha is known widely for his collaborative work with SBTRKT, Jessie Ware, Drake, Kanye West, Solange, Koreless, Lil Silva, Katy B and others. Sampha has released two solo EPs: Sundanza (2010) and Dual (2013). Sampha's debut album, Process, is scheduled for release on 3 February 2017, through Young Turks.",
+        "image": "images/Artists/sampha.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "SD",
+        "description": "Sadiki Thirston",
+        "image": "images/Artists/sd.jpg",
+        "role": "Rapper",
+        "member": "GLO GANG, BLOOD MONEY, LAMRON ",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "https://www.youtube.com/watch?v=lgVU6mCYSnw",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Skepta",
+        "description": "Joseph Junior Adenuga (born 19 September 1982), better known by his stage name Skepta, is an English grime artist, songwriter and record producer. Adenuga released his debut studio album Greatest Hits in late 2007 and his second, Microphone Champion in 2009, both independently, while his third studio album Doin' It Again was released in 2011 by AATW. His fourth studio album, Konnichiwa, was released on 6 May 2016 to critical acclaim, winning that year's Mercury Prize.",
+        "image": "images/Artists/skepta.jpg",
+        "role": "Rapper, Producer,Songwriter",
+        "member": "BOY BETTER KNOW (BBK)",
+        "genres": "GRIME",
+        "facebook": "https://www.facebook.com/SkeptaOfficial",
+        "youtube": "https://www.youtube.com/user/OfficialSketpaVEVO",
+        "website": "https://www.helloskepta.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=MQOG5BkY2Bc",
+        "soundcloud": "https://soundcloud.com/skepta"
+    },
+
+    {
+        "name": "Snoop Dogg",
+        "description": "Snoop Dogg",
+        "image": "images/Artists/snoop_dogg.jpeg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Sol",
+        "description": "",
+        "image": "images/Artists/sol.jpg",
+        "role": "Rapper",
+        "member": "Zilla Music",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/solsays/",
+        "youtube": "https://www.youtube.com/user/solzilla",
+        "website": "http://www.solsays.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=fEl4rhr9PGI&index=5&list=PLtv5bxl426MBUSYP_dk9vroyS0awKLL8M",
+        "soundcloud": "https://soundcloud.com/solzilla"
+    },
+
+    {
+        "name": "Stormzy",
+        "description": "Michael Omari (born 26 July 1993), better known by his stage name Stormzy, is an English grime and hip hop artist. He won Best Grime Act at the 2014 and 2015 MOBO Awards and was named as an artist to look out for in the BBC's influential Sound of 2015 list. His most successful song to date is the BPI gold-selling \"Shut Up\", initially released as a freestyle to YouTube and later reaching number eight on the UK Singles Chart after a campaign for it to reach Christmas number one. Stormzy originates from Thornton Heath, London, and attended Harris Academy South Norwood. He began rapping at the age of 11 and would clash with older rappers at his local youth club. In school, he was excluded several times in Year 8 and was expelled in sixth form. Before focusing on his music full-time, he studied for an apprenticeship in Leamington Spa and worked in quality assurance for two years at an oil refinery in Southampton. Stormzy is the cousin of BBC Sound of 2017 nominee Nadia Rose.",
+        "image": "images/Artists/stormzy.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Syd",
+        "description": "Sydney \"Syd\" Bennett (born April 23, 1992) is an American alternative R&B and neo soul singer-songwriter, record producer, DJ, and audio engineer from Los Angeles, California. Aside from her solo career, Syd was a member of the Los Angeles alternative hip hop collective Odd Future and is the lead vocalist for the neo soul band The Internet. She is the older sister of Odd Future member Travis \"Taco\" Bennett. She is currently signed to Columbia Records.",
+        "image": "images/Artists/syd.jpg",
+        "role": "Singer, rapper, record producer",
+        "member": "Odd Future, The Internet",
+        "genres": "hip hop, alternative r&b",
+        "facebook": "",
+        "youtube": "https://www.youtube.com/user/SydVEVO/videos",
+        "website": "http://www.internet-band.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=P7kW3Q46UUc",
+        "soundcloud": "https://soundcloud.com/internetsyd"
+    },
+
+    {
+        "name": "T.I.",
+        "description": "T.I.",
+        "image": "images/Artists/ti.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "The Game",
+        "description": "The Game",
+        "image": "images/Artists/the_game.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "The Weeknd",
+        "description": "Abél Makkonen Tesfaye (born 16 February 1990), known professionally as The Weeknd (pronounced \"the weekend\"), is a Canadian singer, songwriter and record producer. In late 2010, Tesfaye anonymously uploaded several songs to YouTube under the name \"The Weeknd\" produced by Abel and producer Jeremy Rose, Doc Mckinney, Illangelo, Dream Machine, DropXLife and Ranier. He released three nine-track mixtapes throughout 2011: House of Balloons, Thursday, and Echoes of Silence, which were critically acclaimed. During this time he was also collaborating with the rapper Drake lending six plus tracks to Drake's album Take Care in 2011. The following year, he released a compilation album Trilogy, thirty tracks consisting of the remastered mixtapes and three additional songs. It was released under Republic Records and his own label XO.In 2013, he released his debut studio album Kiss Land, which was supported by the singles \"Kiss Land\" and \"Live For\". His second album, Beauty Behind the Madness, which became his first number one album on the US Billboard 200, included the top-three single \"Earned It\" and produced the number-one singles \"The Hills\" and \"Can't Feel My Face\". The songs have simultaneously held the top three spots on the Billboard Hot R&B Songs chart, making him the first artist in history to achieve this. The Weeknd has won two Grammy Awards and has been nominated for an Academy Award, and five Juno Awards. In September 2016, the release of the third album, Starboy was announced, along with the release of the single \"Starboy\" which subsequently reached number one on the Billboard Hot 100.",
+        "image": "images/Artists/weeknd.jpg",
+        "role": "Singer, Producer",
+        "member": "XO, OVO, Republic ",
+        "genres": "Alternative R&B, Hip-Hop",
+        "facebook": "https://www.facebook.com/theweeknd/",
+        "youtube": "https://www.youtube.com/user/TheWeekndVEVO",
+        "website": "https://www.theweeknd.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=ZXBcwyMUrcU",
+        "soundcloud": "https://soundcloud.com/theweeknd"
+    },
+
+    {
+        "name": "THEY",
+        "description": "",
+        "image": "images/Artists/they.jpg",
+        "role": "Rap duo",
+        "member": "Mind of a Genius",
+        "genres": "Hip-hop, Alternative R&B",
+        "facebook": "https://www.facebook.com/unofficialTHEY/",
+        "youtube": "",
+        "website": "http://unofficialthey.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=GPc6amxJ-RE",
+        "soundcloud": "https://soundcloud.com/unofficialthey"
+    },
+
     {
         "name": "Timbaland",
         "description": "",
-        "image": "images/Artists/timbaland-1024x576.jpg"
+        "image": "timbaland.jpg",
+        "role": "Producer, Singer",
+        "member": "Roc Nation, Interscope",
+        "genres": "Hip-hop, r&b, ",
+        "facebook": "https://www.facebook.com/Timbaland/",
+        "youtube": "https://www.youtube.com/user/TimbalandVEVO",
+        "website": "http://www.timbalandmusic.com/",
+        "youtube_song": "",
+        "soundcloud": "https://soundcloud.com/timbaland"
     },
-        
+
     {
-        "name": "RZA",
-        "description": "Robert Fitzgerald Diggs (born July 5, 1969), better known by his stage name RZA (/ˈrɪzə/ riz-ə), is an American rapper, record producer, musician, actor, filmmaker and author. A prominent figure in hip hop, RZA is the de facto leader of the Wu-Tang Clan. He has produced almost all of Wu-Tang Clan's albums as well as many Wu-Tang solo and affiliate projects. He is a cousin of the late group-mate Ol' Dirty Bastard and GZA (who also formed the group with RZA). He has also released solo albums under the alter-ego Bobby Digital, along with executive producing credits for side projects. In addition to the Wu-Tang Clan and his solo releases, RZA was also a founding member of the horrorcore group Gravediggaz where he used the name The RZArector. Furthermore, he has acted in several movies, including Coffee and Cigarettes, American Gangster, Gospel Hill, Life Is Hot in Cracktown, Ghost Dog, Funny People, Derailed, Due Date and Repo Men. He also appeared in the Showtime TV series Californication. His directorial debut is for the film he co-wrote and in which he plays the title role, The Man with the Iron Fists, also starring Russell Crowe. The magazine The Source placed him on its list of the 20 greatest producers in the magazine's twenty-year history. He also made the \"Elite 8\" in the search for The Greatest Hip-Hop Producer of All Time by Vibe. NME placed him on their list of the 50 Greatest Producers Ever.",
-        "image": "images/Artists/RZA-WU-TANG-CLAN-RZA-INTERVIEW.jpg"
+        "name": "Tinie Tempah",
+        "description": "Patrick Chukwuemeka Okogwu",
+        "image": "images/Artists/tinie_tempah.jpg",
+        "role": "SINGER,RAPPER,POP",
+        "member": "DISTURBING LDN, WARNER",
+        "genres": "POP,ELECTRIC,DANCE,HIP-HOP, INTERNATIONAL",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     },
-        
+
     {
-        "name": "Bryant Ezeji",
+        "name": "T-Minus",
+        "description": "Tyler Williams",
+        "image": "images/Artists/t_minus.jpg",
+        "role": "Producer, Composer",
+        "member": "OVO",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "TOO SHORT",
+        "description": "Todd Anthony Shaw is a American Bay Area rapper best known for his hit songs like \"The Ghetto\" and \"Blow the Whistle\". Too Short is one of the very few musicians to have been able to collaborate  with both 2Pac and The Notorious B.I.G. during the height of their careers.",
+        "image": "images/Artists/too_short.jpg",
+        "role": "Rapper, Producer, Actor",
+        "member": "Up all Night",
+        "genres": "Bay Area Hip-Hop, Rap ",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Travis Scott",
+        "description": "Jacques Webster (born April 30, 1992), known professionally as Travis Scott (formerly stylized as Travi$ Scott), is an American hip hop recording artist and record producer from Missouri City, Texas. In 2012, Scott signed a record deal with Epic Records. In November of the same year, Scott signed a deal with Very GOOD Beats, as an in-house producer, after appearing on the label's debut compilation album Cruel Summer (2012). In April 2013, it was announced he signed with T.I.'s Grand Hustle imprint. He released his first full-length project, a mixtape titled Owl Pharaoh, in May 2013. He then released his second mixtape Days Before Rodeo in August 2014. His debut album Rodeo, was released on September 4, 2015. His sophomore album, Birds in the Trap Sing McKnight, was released on September 2, 2016.",
+        "image": "images/Artists/travis_scott.jpg",
+        "role": "Rapper , Producer",
+        "member": "GOOD Music , Grand Hustle",
+        "genres": "Hip-Hop , Trap",
+        "facebook": "https://www.facebook.com/travisscottlaflame/",
+        "youtube": "https://www.youtube.com/channel/UClRx3MMyYUyqOxyEqA5F2nQ",
+        "website": "https://travisscott.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=BuNBLjJzRoo",
+        "soundcloud": "https://soundcloud.com/travisscott-2"
+    },
+
+    {
+        "name": "Tyga",
         "description": "",
-        "image": "images/Artists/IMG_3570-1024x1024.jpg"
+        "image": "images/Artists/tyga.jpg",
+        "role": "Rapper",
+        "member": "GOOD Music / Cash Money",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/tyga",
+        "youtube": "https://www.youtube.com/user/TygaVEVO",
+        "website": "http://www.tygasworld.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=LbouTdwOrVw",
+        "soundcloud": "https://soundcloud.com/kinggoldchains"
     },
-        
+
     {
-        "name": "Johnny Rain",
+        "name": "Tyler, The Creator",
         "description": "",
-        "image": "images/Artists/johnny-rain.jpg"
+        "image": "images/Artists/tyler.jpg",
+        "role": "Rapper, Producer",
+        "member": "Odd Future",
+        "genres": "Hip-hop",
+        "facebook": "https://www.facebook.com/TylertheCreatorOfficial/",
+        "youtube": "https://www.youtube.com/user/OFWGKTA",
+        "website": "http://oddfuture.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=af1ePmCW4ZY",
+        "soundcloud": "https://soundcloud.com/tylerthecreator-official-1"
     },
-         
+
     {
-        "name": "BANKS",
-        "description": "Jillian Rose Banks (born June 16, 1988), known simply as Banks (often stylized as BANKS), is an American singer and songwriter from Orange County, California. She is signed to Harvest Records and Good Years Recordings.Following the release of two extended plays, Fall Over and London, in 2013, Banks released her debut album, Goddess, on September 5, 2014, to positive reviews from contemporary music critics. Her second studio album, The Altar, was released on September 30, 2016, to a similar reception. She has toured internationally with The Weeknd and was also nominated for the Sound of 2014 award by the BBC and an MTV Brand New Nominee in 2014.",
-        "image": "images/Artists/moves.jpg"
+        "name": "Vinylz",
+        "description": "Anderson Hernandez",
+        "image": "images/Artists/vinylz.png",
+        "role": "",
+        "member": "",
+        "genres": "Hip-Hop, Trap, Rap",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     },
-         
+
     {
-        "name": "Flying Lotus",
+        "name": "Wale",
         "description": "",
-        "image": "images/Artists/235578-flying-lotus-1024x614.jpg"
+        "image": "images/Artists/wale.jpg",
+        "role": "Rapper",
+        "member": "Maybach Music",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/waleofficial/",
+        "youtube": "https://www.youtube.com/user/walemusic",
+        "website": "http://www.walemusic.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=O7ZbM7ak8uw",
+        "soundcloud": "https://soundcloud.com/walefolarin"
     },
-         
+
     {
-        "name": "Illangelo",
-        "description": "Carlo Montagnese (born July 29, 1987), better known as Illangelo, is a Grammy Award-winning Canadian producer, songwriter, musician and mixing engineer from Calgary, Alberta, who came to fame as long-time collaborator of The Weeknd. His work includes executive production of The Weeknd's 2011 mixtapes, the 2012 compilation album from The Weeknd titled Trilogy along with singles from rappers Wiz Khalifa's \"Remember You\", Drake's \"Crew Love\", Ricky Hil's \"Nomads\", all those featuring The Weeknd, and remixes such as Lady Gaga \"Marry The Night (The Weeknd & Illangelo Remix)\" and Florence and the Machine's \"Shake It Out (The Weeknd Remix)\". He released his debut concept album History of Man on August 20, 2013 under his label Hear the Art Inc. & Bromance Records.",
-        "image": "images/Artists/illangelo-1024x683.jpg"
+        "name": "Wiz Khalifa",
+        "description": "Cameron Jibril Thomaz (born September 8, 1987), better known by his stage name Wiz Khalifa, is an American rapper, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007. His Eurodance-influenced single, \"Say Yeah\", received urban radio airplay, charting on the Rhythmic Top 40 and Hot Rap Tracks charts in 2008. Khalifa parted with Warner Bros. and released his second album, Deal or No Deal, in November 2009. He released the mixtape Kush and Orange Juice as a free download in April 2010; he then signed with Atlantic Records. He is also well known for his debut single for Atlantic, \"Black and Yellow\", which peaked at number one on the Billboard Hot 100. His debut album for the label, Rolling Papers, was released on March 29, 2011. He followed that album with O.N.I.F.C. on December 4, 2012, which was backed by the singles \"Work Hard, Play Hard\" and \"Remember You\". Wiz released his fourth album Blacc Hollywood on August 18, 2014, backed by the lead single \"We Dem Boyz\". In March 2015, he released \"See You Again\" for the soundtrack of the film Furious 7 and the song peaked at number one on the Billboard Hot 100 for 12 non-consecutive weeks.",
+        "image": "images/Artists/wiz_khalifa.jpg",
+        "role": "Rapper",
+        "member": "Rostrum / Taylor Gang",
+        "genres": "Hip-Hop",
+        "facebook": "https://www.facebook.com/wizkhalifa",
+        "youtube": "https://www.youtube.com/user/taylorgangent",
+        "website": "http://www.wizkhalifa.com/",
+        "youtube_song": "https://www.youtube.com/watch?v=TWHNr0BrNgo",
+        "soundcloud": "https://soundcloud.com/wizkhalifa"
     },
-         
+
     {
-        "name": "The Weeknd",
-        "description": "Abél Makkonen Tesfaye (born 16 February 1990), known professionally as The Weeknd (pronounced \"the weekend\"), is a Canadian singer, songwriter and record producer. In late 2010, Tesfaye anonymously uploaded several songs to YouTube under the name \"The Weeknd\" produced by Abel and producer Jeremy Rose, Doc Mckinney, Illangelo, Dream Machine, DropXLife and Ranier. He released three nine-track mixtapes throughout 2011: House of Balloons, Thursday, and Echoes of Silence, which were critically acclaimed. During this time he was also collaborating with the rapper Drake lending six plus tracks to Drake's album Take Care in 2011. The following year, he released a compilation album Trilogy, thirty tracks consisting of the remastered mixtapes and three additional songs. It was released under Republic Records and his own label XO. In 2013, he released his debut studio album Kiss Land, which was supported by the singles \"Kiss Land\" and \"Live For\". His second album, Beauty Behind the Madness, which became his first number one album on the US Billboard 200, included the top-three single \"Earned It\" and produced the number-one singles \"The Hills\" and \"Can't Feel My Face\". The songs have simultaneously held the top three spots on the Billboard Hot R&B Songs chart, making him the first artist in history to achieve this. The Weeknd has won two Grammy Awards and has been nominated for an Academy Award, and five Juno Awards. In September 2016, the release of the third album, Starboy was announced, along with the release of the single \"Starboy\" which subsequently reached number one on the Billboard Hot 100.",
-        "image": "images/Artists/weeknd-1024x1024.jpg"
+        "name": "Young Thug",
+        "description": "Young Thug",
+        "image": "images/Artists/youngthug.jpg",
+        "role": "",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
+    },
+
+    {
+        "name": "Zaytoven",
+        "description": "Xavier L. Dotson",
+        "image": "images/Artists/zaytoven.jpg",
+        "role": "Producer,Writer",
+        "member": "",
+        "genres": "",
+        "facebook": "",
+        "youtube": "",
+        "website": "",
+        "youtube_song": "",
+        "soundcloud": ""
     }
-    
-    
-
-
-    
-    
-
-
-
-
 ]

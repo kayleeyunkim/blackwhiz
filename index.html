@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Blackwhiz</title>
-        <link rel="shortcut icon" type="image/png" href="images/blogo_transparent.png">
+        <link rel="shortcut icon" type="image/png" href="images/Logo/blogo_transparent.png">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -76,22 +76,36 @@
                             <img id="artist_image" ng-src="{{ artist.image }}">
                             <div class="artist_info">
                                 <p class="artist_name" id="artist_name" ng-style="getName()">{{ artist.name }}</p>
+                                <p class="artist_hidden" id="artists_role">{{ artist.role }}</p>
+                                <p class="artist_hidden" id="artist_member">{{ artist.member }}</p>
+                                <p class="artist_hidden" id="artist_genre">{{ artist.genres }}</p>
                                 <div class="artist_description_div">
                                     <p id="artist_description" ng-style="getHeight('.artist_description_div')">{{ artist.description }} </p>
                                 </div>
                                 <button type="button" class="show_more" ng-style="getButton('.show_more')" >Show More</button>
                             </div>
                             <div class="artist_pin_thumb">
-                                <i class="icon-pushpin"></i><span class="icon_num">0</span>
+                                <i class="icon-pushpin"></i><span class="icon_pin_num">0</span>
                                 <br />
-                                <i class="icon-thumbs-up-alt"></i><span class="icon_num">0</span>
+                                <i class="icon-thumbs-up-alt"></i><span class="icon_thumb_num">0</span>
                                 <br />
                             </div>
-                        </a>
-                    </div>    <!--End of col-sm-2-->
-                </div>    <!--End of row-->
+                        </a>    <!-- End of list-group-item -->
+                    </div>    <!--End of menu-category list-group-->
+                </div>    <!--End of menu row-->
+
+                <div id="preview_artist" class="preview_artist">
+                    <div class="preview_sub_div">
+                        <span class="preview_close_btn">&times;</span>
+                        <img class="preview_artists_img" id="preview_artists_img">
+                        <div class="preview_artist_info" id="preview_artist_name"></div>
+                        <div class="preview_artist_info" id="preview_artist_role"></div>
+                        <div class="preview_artist_info" id="preview_artist_member"></div>
+                        <div class="preview_artist_info" id="preview_artist_genre"></div>
+                        <div class="preview_artist_info" id="preview_artist_description"></div>
+                    </div>
+                </div>
             </div>    <!--End of container-fluid-->
         </div>    <!--End of Main-->
-        <!--        End of Main-->
     </body>
 </html>

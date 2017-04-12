@@ -49,12 +49,12 @@
 }
 
 .menu {
-    column-width: 270px;
-    -moz-column-width: 270px;
-    -webkit-column-width: 270px;
-    column-gap: 5px; 
-    -moz-column-gap: 5px;
-    -webkit-column-gap: 5px;
+    column-width: 350px;
+    -moz-column-width: 350px;
+    -webkit-column-width: 350px;
+    column-gap: 10px; 
+    -moz-column-gap: 10px;
+    -webkit-column-gap: 10px;
     margin: 0 3px;
 }
 
@@ -85,7 +85,7 @@
 }
 
 .artist_info {
-    width: 81%;
+    width: 77%;
     margin: 5px 0 0 5px;
     display: inline-block;
 }
@@ -118,7 +118,7 @@
 
 
 .artist_pin_thumb {
-    width: 15%;
+    width: 20%;
     display: inline-block;
     float: right;
     vertical-align: top;
@@ -135,8 +135,97 @@
 .icon-pushpin:hover, .icon-thumbs-up-alt:hover {
     font-size: 20px;
     color: #ff4c4c;
-/*    font-weight: bold;*/
 }
+
+.artist_hidden {
+    display: none;
+}
+
+.preview_artist {
+    display: none; 
+    position: fixed;
+    z-index: 1;
+    padding-top: 20px;
+    left: 0;
+    top: 51px;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.6);
+}
+
+.preview_sub_div {
+    display: block; 
+    z-index: 1;
+    margin: auto;
+    left: 0;
+    top: 0;
+    width: 50%;
+    padding: 50px;
+    overflow: auto;
+    border-radius: 12px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+/*add more image effect*/
+.preview_artist_info {
+    margin: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;    
+}
+
+.preview_artists_img {
+    width: 70%;
+    border-radius: 12px;
+}
+
+.preview_artists_img, .preview_artist_info {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+.preview_close_btn {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.preview_close_btn:hover,
+.preview_close_btn:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 767px){
+    .preview_artists_img {
+        width: 100%;
+    }
+}
+
+
+
 
 
 
@@ -173,5 +262,9 @@
 
     .input-group .form-control {
         width: 100%;
+    }
+    
+    .list-group-item {
+        background-color: #efefef;
     }
 }
