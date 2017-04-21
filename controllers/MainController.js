@@ -1,3 +1,5 @@
+var index1;
+
 Blackwhiz.controller('MainController', function($scope, artists) {
     $scope.artists = {};
 
@@ -12,7 +14,26 @@ Blackwhiz.controller('MainController', function($scope, artists) {
     });
 
 
-
+    $scope.hello = function(index) {
+//        var item = $scope.artists[index].name;
+//        
+//        console.log(item);
+        
+    }
+    
+    $scope.hello2 = function(index) {
+        var item = $scope.artists[index].name;
+        console.log($scope.artists[index].image);
+        index1 = index;
+        hello();
+//        console.log(item);
+//        console.log($scope.artists[index].image);
+        
+    }
 
 });
 
+
+function hello() {
+    console.log(index1);
+}

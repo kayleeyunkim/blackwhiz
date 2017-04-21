@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/*----------------Customized Scroll bar--------------*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(255,0,0,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255,0,0,0.4); 
+}
+/*---------------------------------------------------*/
+
+
+/*--------------------Navigation Bar-----------------*/
+.navbar-brand {
+    padding: 5px 15px;
+    width: 180px;
+}
+
+.navbar-brand p {
+    font-size: 25px;
+    vertical-align: bottom;
+    color: white;
+    transition: 1s;
+}
+
+.navbar-brand p:hover {
+    color: red;
+}
+
+.navbar-brand img:hover {
+    filter: contrast(20%);
+}
+
+.navbar-form  {
+    width: 70%;
+}
+
+.input-group {
+    width: 100%;
+}
+
+.form-control {
+    font-family: FontAwesome;
+    font-size: 18px;
+}
+
+.navbar-form input {
+    background-color: #454647;
+    color: #e0e0e0;
+    border: none;
+    outline: none;
+}
+
+.collapse {
+    font-size: 17px;
+}
+
+
+
+/*---------------------------------------------------*/
+
+@media (max-width: 1489px) and (min-width: 913px)
+{
+    .navbar-form  {
+        width: 50%;
+    }
+}
+
+@media (max-width: 912px) and (min-width: 769px)
+{
+    .navbar-form  {
+        width: 40%;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .navbar-form {
+        width: 100%;
+    }
+
+    .navbar-form {
+        width: auto;
+    }
+
+    .input-group, .input-group .form-control {
+        width: 100%;
+    }
+
+    .input-group .form-control {
+        width: 100%;
+    }
+}

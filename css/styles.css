@@ -68,9 +68,81 @@
     outline: none;
 }
 
+
+
 .collapse {
     font-size: 17px;
 }
+
+#category {
+    float:none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    text-align: center;
+}
+
+
+#nav_menu_main_title {
+    width: 150px;
+    margin: 0 30px;
+    
+
+}
+
+li.dropdown.open > #nav_menu_main_title:focus{
+    border-bottom: 3px solid red;
+}
+
+#nav_menu {
+    height: 53px;
+    background-color: #222;
+}
+
+#nav_menu_main_title:hover {
+    border-bottom: 3px solid red;
+}
+
+#dropdown_menu {
+    padding: 0 30px 30px 30px;
+    width: 1152px;
+    background-color: black;
+}
+
+.nav_menu_li {
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+
+.nav_menu_title {
+    font-size: 20px;
+    margin: 20px 0 0 0;
+    font-weight: bold;
+    color: #e01e1e
+}
+
+.nav_menu_ul_div {
+    font-size: 15px;
+    margin-left: 10px;
+    border-left: 5px solid #8e8e8e;
+    padding-left: 10px;
+}
+
+.nav_menu_ul_div li a{
+    color: #eff4ff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav_menu_ul_div li a:hover {
+    color: red;
+}
+
+
+
 
 /*---------------------------------------------------*/
 
@@ -104,6 +176,7 @@
 
 .list-group-item:hover {
     background-color: #efefef;
+    cursor: pointer;
 }
 
 #artist_image {
@@ -151,7 +224,7 @@
     overflow: hidden;
 }
 
-.show_more, .artist_equip_btn {
+.show_more, .artist_equip_btn, .show_equip {
     padding: 5px 10px;
     border: none;
     outline:none;
@@ -159,13 +232,24 @@
     transition: 0.5s;
     display: none;
     margin: 10px 5px;
+    float: left;
+    color: black;
+
 }
 
-.show_more:hover, .artist_equip_btn:hover {
+.artist_equip_btn {
+    float: none;
+}
+
+.show_more:hover, .artist_equip_btn:hover, .show_equip:hover {
     background-color: #ff4c4c;
     color: white;
 }
 
+.show_equip {
+    display: block;
+    float: left;
+}
 
 .artist_pin_thumb {
     width: 20%;
@@ -175,6 +259,7 @@
     text-align: right;
     font-size: 15px;
     margin: 10px 0 0 5px;
+    vertical-align: top;
 }
 
 .artist_pin_thumb i {
@@ -265,7 +350,13 @@
 }
 
 .preview_artists_img {
-    box-shadow: 5px 5px 10px #4c4c4c;
+    box-shadow: 0 0 15px 10px #4c4c4c;
+    filter: brightness(80%);
+    transition: 1s ease-in-out;
+}
+
+.preview_artists_img:hover {
+    filter: brightness(100%);
 }
 
 @-webkit-keyframes zoom {
@@ -314,6 +405,30 @@
     padding: 0;
     margin: 0;
     margin-left: 20px;
+}
+
+#preview_artist_description {
+    font-size: 17px;
+}
+
+.preview_sns {
+    font-size: 25px;
+}
+
+.preview_sns a:hover {
+    color: #4259d1;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.preview_artist_facebook, .preview_artist_youtube, .preview_artist_website, .preview_artist_youtube_song, .preview_artist_soundcloud {
+    color: red;
+    font-weight: 0;
+}
+
+.artist_equip_anchor:hover {
+    text-decoration: none;
+
 }
 
 

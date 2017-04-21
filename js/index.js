@@ -2,7 +2,7 @@ var element_height = [];
 var artist_name = [];
 
 $(document).ready(function() {
-    console.log( "ready!" );
+    
     $(document).on ("click", ".show_more", function () {
         var add_height = 100;
 
@@ -10,9 +10,9 @@ $(document).ready(function() {
         var name = $(this).parent().find('#artist_name').text();
         var index = match_name(name, artist_name);
 
-        if ($(this).prev().hasClass("toggled"))
+        if ($(this).prev().prev().hasClass("toggled"))
         {
-            $(this).prev().animate({height: "100px"}, {duration: 800}).removeClass("toggled");
+            $(this).prev().prev().animate({height: "100px"}, {duration: 800}).removeClass("toggled");
             $('html,body').animate({
                 scrollTop: $(this).parent().prev().offset().top - add_height});
             $(this).text('Show More');
@@ -21,16 +21,19 @@ $(document).ready(function() {
         else
         {
             var original_height = element_height[index];
-            $(this).prev().animate({height: original_height + "px"}, {duration: 800}).addClass("toggled");
+            $(this).prev().prev().animate({height: original_height + "px"}, {duration: 800}).addClass("toggled");
             $('html,body').animate({
                 scrollTop: $(this).parent().prev().offset().top - add_height});
             $(this).text('Show Less');
         }
     });
-
+    
 
     // when user click the listed item, show preview
     $(document).on("click", ".list-group-item", function(e) {
+        $('html,body').animate({
+                scrollTop: $(this).offset().top});
+        
         // if clicked show_more button
         if (($(e.target).is(':button')) || 
             ($(e.target).is('.icon-pushpin')) || 
@@ -51,26 +54,70 @@ $(document).ready(function() {
             var artist_member = $(this).parent().find('#artist_member').text();
             var artist_genre = $(this).parent().find('#artist_genre').text();
             var artist_description = $(this).parent().find('#artist_description').text();
+            var artist_facebook = $(this).parent().find('#artist_facebook').text();
+            var artist_youtube = $(this).parent().find('#artist_youtube').text();
+            var artist_website = $(this).parent().find('#artist_website').text();
+            var artist_youtube_song = $(this).parent().find('#artist_youtube_song').text();
+            var artist_soundcloud = $(this).parent().find('#artist_soundcloud').text();
 
             preview_img.src = img;
-
             $('#preview_artist_name').empty();
             $('#preview_artist_role').empty();
             $('#preview_artist_member').empty();
             $('#preview_artist_genre').empty();
             $('#preview_artist_description').empty();
+            $('.preview_artist_facebook').empty();
+            $('.preview_artist_youtube').empty();
+            $('.preview_artist_website').empty();
+            $('.preview_artist_youtube_song').empty();
+            $('.preview_artist_soundcloud').empty();
 
             $('#preview_artist_name').append(artist_name);
             $('#preview_artist_role').append("<b>Roles: </b>" + artist_role);
             $('#preview_artist_member').append("<b>Member of: </b>" + artist_member);
             $('#preview_artist_genre').append("<b>Genre: </b>" + artist_genre);
             $('#preview_artist_description').append(artist_description);
+
+            if (artist_facebook !== " ")
+            {
+                $('.preview_artist_facebook').append('<i class="icon-facebook-sign"></i>');
+                $('.preview_artist_facebook').attr("href", artist_facebook);
+                $('.preview_artist_facebook').attr("target", "_blank");
+            }
+
+            if (artist_youtube !== " ")
+            {
+                $('.preview_artist_youtube').append('<i class="icon-youtube">');
+                $('.preview_artist_youtube').attr("href", artist_youtube);
+                $('.preview_artist_youtube').attr("target", "_blank");
+            }
+            
+            if (artist_website !== " ")
+            {
+                $('.preview_artist_website').append('<i class="icon-home"></i>');
+                $('.preview_artist_website').attr("href", artist_website);
+                $('.preview_artist_website').attr("target", "_blank");
+            }
+            
+            if (artist_youtube_song !== " ")
+            {
+                $('.preview_artist_youtube_song').append('<i class="icon-music">');
+                $('.preview_artist_youtube_song').attr("href", artist_youtube_song);
+                $('.preview_artist_youtube_song').attr("target", "_blank");
+            }
+            
+            if (artist_soundcloud !== " ")
+            {
+                $('.preview_artist_soundcloud').append('<i class="icon-cloud"></i>');
+                $('.preview_artist_soundcloud').attr("href", artist_soundcloud);
+                $('.preview_artist_soundcloud').attr("target", "_blank");
+            }
+
             $('.preview_artist').css('display', 'block');
         }
 
         var span = document.getElementsByClassName("preview_close_btn")[0];
 
-        // When the user clicks on <span> (x), close the modal
         span.onclick = function() { 
             $('.preview_artist').css('display', 'none');
             $("body").css("overflow", "auto");
@@ -183,7 +230,7 @@ var Blackwhiz = angular.module("Blackwhiz", [])
                     // get all the artists' name and store in array
                     scope.getName = function() {
                         for (var i = 0; i < scope.artists.length; i++) {
-                            artist_name.push(scope.artists[i].name)
+                            artist_name.push(scope.artists[i].name);
                         }
                     }
                 });
