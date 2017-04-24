@@ -15,10 +15,11 @@
         <script src="controllers/MainController.js"></script>
         <script src="services/artists.js"></script>
         <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="css/signup.css">
     </head>
     <body ng-app="Blackwhiz">
 
-        <!------------------------------------------------------------------------------------------------------>
+        <!------------------------------------------------------------------------------------------->
 
         <!--       Start of Responsive Navigation Bar -->
         <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -44,7 +45,7 @@
                     </form>
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> &nbsp;&nbsp;Login</a></li>
+                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> &nbsp;&nbsp;Login</a></li>
                         <li><a href="signup.html"><span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;Sign Up</a></li>
 
                         <li class="dropdown">
@@ -576,75 +577,33 @@
                 </div>
             </div>
         </nav>
-        <!--        End of Navigation Bar-->
-
-        <!---------------------------------------------------------------------------------------------------->
 
 
-        <!--        Start of Main -->
-        <div class="main" ng-controller="MainController">
-            <div class="container-fluid" style="margin: 70px 1%;">
-                <div class="menu row">
-                    <div class="menu-category list-group" ng-repeat="artist in artists" on-finish-render="ngRepeatFinished">
-                        <div href="#" class="list-group-item" ng-click="hello($index)">
-                            <img id="artist_image" ng-src="{{ artist.image }}">
-                            <div class="artist_info">
-                                <p class="artist_name" id="artist_name" ng-style="getName()">{{ artist.name }}</p>
-                                <p class="artist_hidden" id="artists_role">{{ artist.role }}</p>
-                                <p class="artist_hidden" id="artist_member">{{ artist.member }}</p>
-                                <p class="artist_hidden" id="artist_genre">{{ artist.genres }}</p>
-                                <p class="artist_hidden" id="artist_facebook"> {{ artist.facebook }}</p>
-                                <p class="artist_hidden" id="artist_youtube"> {{ artist.youtube }}</p>
-                                <p class="artist_hidden" id="artist_website"> {{ artist.website }}</p>
-                                <p class="artist_hidden" id="artist_youtube_song"> {{ artist.youtube_song }}</p>
-                                <p class="artist_hidden" id="artist_soundcloud"> {{ artist.soundcloud }}</p>
-                                <div class="artist_description_div">
-                                    <p id="artist_description" ng-style="getHeight('.artist_description_div')">{{ artist.description }} </p>
-                                </div>
-                                <a class="artist_equip_anchor"><button class="show_equip" ng-click="hello2($index)">Go to see Equipments</button></a>
-                                <button type="button" class="show_more" ng-style="getButton('.show_more')" >Show More</button>
-                            </div>
-                            <div class="artist_pin_thumb">
-                                <i class="icon-pushpin"></i><span class="icon_pin_num">0</span>
-                                <br />
-                                <i class="icon-thumbs-up-alt"></i><span class="icon_thumb_num">0</span>
-                                <br />
-                            </div>
-                        </div>    <!-- End of list-group-item -->
-                    </div>    <!--End of menu-category list-group-->
-                </div>    <!--End of menu row-->
 
-                <div id="preview_artist" class="preview_artist">
-                    <div class="preview_sub_div">
-                        <span class="preview_close_btn">&times;</span>
-                        <div class="preview_info_sub_left">
-                            <img class="preview_artists_img" id="preview_artists_img">
-                            <div class="preview_artist_info" id="preview_artist_name"></div>
-                            <div class="preview_sns" id="preview_sns">
-                                <a class="preview_artist_facebook"></a>
-                                <a class="preview_artist_youtube"></a>
-                                <a class="preview_artist_website"></a>
-                                <a class="preview_artist_youtube_song"></a>
-                                <a class="preview_artist_soundcloud"></a>
-                            </div>
-                            <div class="preview_artist_equip_btn_div">
-                                <a href="equipment.html" class="artist_equip_anchor"><button class="artist_equip_btn">Go to see Equipments</button></a>
-                            </div>
-                        </div>
-                        <div class="preview_info_sub_right">
-                            <div class="preview_artist_info" id="preview_artist_role">
-                            </div>
-                            <div class="preview_artist_info" id="preview_artist_member">
-                            </div>
-                            <div class="preview_artist_info" id="preview_artist_genre">
-                            </div>
-                            <br />
-                            <div class="preview_artist_info" id="preview_artist_description">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>    <!--End of container-fluid-->
-        </div>    <!--End of Main-->
+        <div class="signup_main">
+            <p class="signup_main_title">Sign In</p>
+
+            
+
+            <div class="signup_logo">
+                <img class="logo" src="images/Logo/blogo_transparent.png">
+                <p class="logo_title">Blackwhiz</p>
+            </div>
+            <form class="signup_form">
+                <button class="signup_sns" id="singup_facebook"><i class="icon-facebook"></i>&nbsp;&nbsp;&nbsp;&nbsp;Sign in with Facebook</button>
+                <button class="signup_sns" id="signup_tweeter"><i class="icon-twitter"></i>&nbsp;&nbsp;&nbsp;&nbsp;Sign in with Twitter</button>
+                <p class="signup_or">OR</p>
+                <input type="email" name="email" id="email_signin" placeholder="Email">
+                <input type="password" name="password" id="password_signin" placeholder="Password">
+                <button type="submit" class="submit">SIGN IN</button>
+            </form>
+            <br /><br />
+            <p class="signup_or">Don't have an account? <a href="signup.html">Sign Up</a></p>
+        </div>
+
+
+
+
+
     </body>
 </html>

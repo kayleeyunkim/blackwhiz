@@ -168,8 +168,8 @@ li.dropdown.open > #nav_menu_main_title:focus{
 .nav_menu_li_view_all {
     display: none;
     margin-top: 30px;
-float: right;
-    
+    float: right;
+
 }
 
 .nav_menu_view_all_button {
@@ -504,11 +504,11 @@ float: right;
     .preview_info_sub_right {
         margin-top: 20px;
     }
-    
+
     #category {
         display: none;
     }
-    
+
     #search_category {
         display: block;
     }
@@ -544,30 +544,30 @@ float: right;
     .preview_info_sub_right {
         margin-top: 20px;
     }
-    
+
     #nav_menu_hide {
         display: none;
     }
-    
+
     .nav_menu_li_view_all {
         display: block;
     }
-    
+
     #dropdown_menu1 {
         width: 610px;
         left: -20%;
     }
-    
+
     #dropdown_menu2 {
         width: 570px;
         left: -100%;
     }
-    
+
     #dropdown_menu3 {
         width: 610px;
         left: -200%;
     }
-    
+
     #dropdown_menu4 {
         width: 610px;
         left: -300%;
@@ -587,30 +587,30 @@ float: right;
     .preview_info_sub_right {
         margin-top: 20px;
     }
-    
+
     #nav_menu_hide {
         display: none;
     }
-    
+
     .nav_menu_li_view_all {
         display: block;
     }
-    
+
     #dropdown_menu1 {
         width: 610px;
         left: -20%;
     }
-    
+
     #dropdown_menu2 {
         width: 570px;
         left: -100%;
     }
-    
+
     #dropdown_menu3 {
         width: 610px;
         left: -200%;
     }
-    
+
     #dropdown_menu4 {
         width: 610px;
         left: -300%;
@@ -651,30 +651,30 @@ float: right;
     #preview_artist_role, #preview_artist_member, #preview_artist_genre, #preview_artist_description{
         font-size: 15px;
     }
-    
+
     #nav_menu_hide {
         display: none;
     }
-    
+
     .nav_menu_li_view_all {
         display: block;
     }
-    
+
     #dropdown_menu1 {
         width: 610px;
         left: -20%;
     }
-    
+
     #dropdown_menu2 {
         width: 570px;
         left: -100%;
     }
-    
+
     #dropdown_menu3 {
         width: 610px;
         left: -200%;
     }
-    
+
     #dropdown_menu4 {
         width: 610px;
         left: -300%;
