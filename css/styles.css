@@ -205,6 +205,7 @@ li.dropdown.open > #nav_menu_main_title:focus{
 /*---------------------------------------------------*/
 
 /*-------------------Artists Info--------------------*/
+
 .menu {
     column-width: 350px;
     -moz-column-width: 350px;
@@ -212,7 +213,7 @@ li.dropdown.open > #nav_menu_main_title:focus{
     column-gap: 10px; 
     -moz-column-gap: 10px;
     -webkit-column-gap: 10px;
-    margin: 50px 3px;
+    margin: 123px 3px;
 }
 
 .menu-category {
@@ -341,9 +342,8 @@ li.dropdown.open > #nav_menu_main_title:focus{
     display: none; 
     position: fixed;
     z-index: 1;
-    padding-top: 20px;
     left: 0;
-    top: 51px;
+    top: 103px;
     width: 100%;
     height: 100%;
     overflow: auto;
@@ -355,7 +355,7 @@ li.dropdown.open > #nav_menu_main_title:focus{
     display: block; 
     z-index: 1;
     margin: auto;
-    margin-top: 60px;
+    margin-top: 20px;
     left: 0;
     top: 0;
     width: 50%;
@@ -493,12 +493,20 @@ li.dropdown.open > #nav_menu_main_title:focus{
 
 
 @media only screen and (max-width: 767px){
+	.menu {
+		margin: 71px 3px;
+	}
+
     .preview_artists_img {
         width: 100%;
     }
 
     .preview_artist, .preview_sub_div, .preview_info_sub_left, .preview_info_sub_right{
         width: 100%;
+    }
+
+    .preview_artist {
+        top: 51px;
     }
 
     .preview_info_sub_right {
@@ -619,6 +627,7 @@ li.dropdown.open > #nav_menu_main_title:focus{
 
 
 @media (max-width: 781px) {
+
 
     .navbar-form {
         width: 100%;
